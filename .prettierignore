@@ -1,0 +1,13 @@
+node_modules/
+out/
+.next/
+.git/
+infrastructure/cdk.out/
+.yarn/
+
+shop/node_modules/
+shop/out/
+shop/.next/
+shop/.git/
+shop/infrastructure/cdk.out/
+shop/.yarn/
