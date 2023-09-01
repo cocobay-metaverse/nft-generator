@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-527a1234-e763-439c-a303-5e543d84694d" data-name="COCOBAY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .uuid-365228c4-299b-4be5-a2cb-9a38fc06114a {
+        fill: #fff7f0;
+      }
+
+      .uuid-365228c4-299b-4be5-a2cb-9a38fc06114a, .uuid-6c5988a4-7bad-4943-b901-438ecf3c877b {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .uuid-6c5988a4-7bad-4943-b901-438ecf3c877b {
+        fill: #7aa6ff;
+      }
+    </style>
+  </defs>
+  <g id="uuid-e2fbca77-8e7a-49a9-ad56-906492ae40c9" data-name="OBJECT RIGHT">
+    <g id="uuid-e52b1ae6-7e41-417a-a53a-e6c5d75aeb92" data-name="Capa 15">
+      <g>
+        <path class="uuid-6c5988a4-7bad-4943-b901-438ecf3c877b" d="M171.75,394.13s-4.65,.45-5.76,.95c-1.11,.51-3.78,11.83-3.93,12.49s6.85,9.32,36.81,12.35c5.87,.59,6.42-.22,6.86-2.04s2.36-8.9,2.53-9.64-4.96-4.93-4.96-4.93l-1.19,4.44s-10.85-.49-19.61-3.38c-8.76-2.9-12.13-4.84-12.13-4.84l1.38-5.4Z"/>
+        <line class="uuid-6c5988a4-7bad-4943-b901-438ecf3c877b" x1="193.91" y1="411.28" x2="192.95" y2="415.08"/>
+        <line class="uuid-6c5988a4-7bad-4943-b901-438ecf3c877b" x1="200.36" y1="412.14" x2="199.39" y2="415.94"/>
+        <circle class="uuid-365228c4-299b-4be5-a2cb-9a38fc06114a" cx="178.56" cy="408.85" r="12.13"/>
+        <circle class="uuid-6c5988a4-7bad-4943-b901-438ecf3c877b" cx="178.56" cy="408.85" r="6.23"/>
+      </g>
+    </g>
+  </g>
+</svg>

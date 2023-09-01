@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BODY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m378.79,259.75c-1.76-5.11-7.33-7.82-12.44-6.06s-7.82,7.33-6.06,12.44"/>
+  <circle cx="362.12" cy="293.18" r="9.78" transform="translate(-9.59 12.26) rotate(-1.91)"/>
+  <path class="cls-1" d="m346.88,270.76c-1.76-5.11-7.33-7.82-12.44-6.06-5.11,1.76-7.82,7.33-6.06,12.44"/>
+</svg>
