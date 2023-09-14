@@ -1,7 +1,8 @@
 const basePath = process.cwd();
 const { NETWORK } = require(`${basePath}/constants/network.js`);
 const fs = require("fs");
-const xml2js = require("xml2js");
+const convert = require("xml-js");
+const { getConflictAction, SKIP, NO_CONFLICT } = require("./conflicts");
 const sha1 = require(`${basePath}/node_modules/sha1`);
 const buildDir = `${basePath}/build`;
 const layersDir = `${basePath}/layers`;
@@ -58,6 +59,8 @@ const cleanName = (_str) => {
 };
 
 const getElements = (path) => {
+  const categoryRegex = /.*\/([^/]+)\/?$/;
+
   return fs
     .readdirSync(path)
     .filter((item) => !/(^|\/)\.[^\/\.]/g.test(item))
@@ -65,10 +68,13 @@ const getElements = (path) => {
       if (i.includes("-")) {
         throw new Error(`layer name can not contain dashes, please fix: ${i}`);
       }
+      const category = categoryRegex.exec(path)[1];
       return {
-        id: index,
+        id: index + 1,
+        category: category,
         name: cleanName(i),
         filename: i,
+        relativePath: `${category}/${i}`,
         path: `${path}${i}`,
         weight: getRarityWeight(i),
       };
@@ -77,7 +83,7 @@ const getElements = (path) => {
 
 const layersSetup = (layersOrder) => {
   const layers = layersOrder.map((layerObj, index) => ({
-    id: index,
+    id: index + 1,
     elements: getElements(`${layersDir}/${layerObj.name}/`),
     name:
       layerObj.options?.["displayName"] != undefined
@@ -96,6 +102,7 @@ const layersSetup = (layersOrder) => {
         ? layerObj.options?.["bypassDNA"]
         : false,
   }));
+
   return layers;
 };
 
@@ -167,29 +174,26 @@ const loadLayerImg = async (_layer) => {
 };
 
 const drawElement = async (renderObject) => {
-  const builder = new xml2js.Builder({
-    headless: true,
-  });
-
   addAttributes(renderObject);
 
   return new Promise(async (resolve) => {
-    xml2js.parseString(renderObject.loadedImage, (_err, result) => {
-      delete result.svg.$;
-      resolve(
-        builder.buildObject({
-          g: result.svg,
-        }),
-      );
-    });
+    const object = convert.xml2js(renderObject.loadedImage);
+    resolve(
+      convert.js2xml(object, {
+        ignoreDeclaration: true,
+      }),
+    );
   });
 };
 
 const constructLayerToDna = (_dna = "", _layers = []) => {
   let mappedDnaToLayers = _layers.map((layer, index) => {
     let selectedElement = layer.elements.find(
-      (e) => e.id == cleanDna(_dna.split(DNA_DELIMITER)[index]),
+      (e) =>
+        e.id != EMPTY_CHROMOSOME_ID &&
+        e.id == cleanDna(_dna.split(DNA_DELIMITER)[index]),
     );
+
     return {
       name: layer.name,
       blend: layer.blend,
@@ -245,27 +249,63 @@ const isDnaUnique = (_DnaList = new Set(), _dna = "") => {
   return !_DnaList.has(_filteredDNA);
 };
 
+const EMPTY_CHROMOSOME_ID = 0;
+
 const createDna = (_layers) => {
   let randNum = [];
+
+  const elementsAdded = [];
+
   _layers.forEach((layer) => {
     var totalWeight = 0;
     layer.elements.forEach((element) => {
       totalWeight += element.weight;
     });
-    // number between 0 - totalWeight
-    let random = Math.floor(Math.random() * totalWeight);
-    for (var i = 0; i < layer.elements.length; i++) {
-      // subtract the current weight from the random weight until we reach a sub zero value.
-      random -= layer.elements[i].weight;
-      if (random < 0) {
-        return randNum.push(
-          `${layer.elements[i].id}:${layer.elements[i].filename}${
-            layer.bypassDNA ? "?bypassDNA=true" : ""
-          }`,
-        );
+
+    let layerRandNum = -1;
+
+    while (layerRandNum < 0) {
+      //TODO predict infinite loop cases and better warn the user to use a different setup
+      // number between 0 - totalWeight
+      let random = Math.floor(Math.random() * totalWeight);
+      for (var i = 0; i < layer.elements.length; i++) {
+        // subtract the current weight from the random weight until we reach a sub zero value.
+        random -= layer.elements[i].weight;
+
+        if (random < 0) {
+          let conflictAction = getConflictAction(
+            layer.elements[i].relativePath,
+            elementsAdded,
+          );
+
+          if (conflictAction === NO_CONFLICT) {
+            elementsAdded.push(layer.elements[i]);
+            layerRandNum = randNum.push(
+              `${layer.elements[i].id}:${layer.elements[i].filename}${
+                layer.bypassDNA ? "?bypassDNA=true" : ""
+              }`,
+            );
+          } else if (conflictAction === SKIP) {
+            debugLogs &&
+              console.log(
+                "detected conflict of type <skip category> on",
+                layer.elements[i].relativePath,
+              );
+            layerRandNum = randNum.push(`${EMPTY_CHROMOSOME_ID}:x`);
+          } else {
+            debugLogs &&
+              console.log(
+                "detected conflict of type <randomize trait again> on",
+                layer.elements[i].relativePath,
+              );
+          }
+
+          break; //Layer filled
+        }
       }
     }
   });
+
   return randNum.join(DNA_DELIMITER);
 };
 
@@ -331,7 +371,9 @@ const startCreating = async () => {
         let loadedElements = [];
 
         results.forEach((layer) => {
-          loadedElements.push(loadLayerImg(layer));
+          if (layer.selectedElement) {
+            loadedElements.push(loadLayerImg(layer));
+          }
         });
 
         await Promise.all(loadedElements).then(async (renderObjectArray) => {
