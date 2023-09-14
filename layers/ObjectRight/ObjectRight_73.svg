@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-42822a0c-9493-4e47-96a8-dc08f629f6da" data-name="BODY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .uuid-a90393e1-d2dd-4b49-89c9-adbf8df544b6 {
+        fill: #7aa6ff;
+      }
+
+      .uuid-a90393e1-d2dd-4b49-89c9-adbf8df544b6, .uuid-aacdc02e-5255-405f-96c9-47ccc945bc8f, .uuid-9466e722-e672-4787-948f-9c4d278a6ba9, .uuid-b089016f-54f0-4132-99a9-3ecf37549de7, .uuid-08392639-71d7-4a57-95af-fd56e50795cc {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .uuid-aacdc02e-5255-405f-96c9-47ccc945bc8f {
+        fill: #ff78d8;
+      }
+
+      .uuid-9466e722-e672-4787-948f-9c4d278a6ba9 {
+        fill: #ffff0d;
+      }
+
+      .uuid-b089016f-54f0-4132-99a9-3ecf37549de7 {
+        fill: none;
+      }
+
+      .uuid-08392639-71d7-4a57-95af-fd56e50795cc {
+        fill: #f9a723;
+      }
+    </style>
+  </defs>
+  <g id="uuid-b2254eeb-4f3d-414b-82a9-e56f00a8802b" data-name="uuid-5d087d90-db25-43a6-ad2e-0d1f05b40ae9">
+    <g>
+      <path class="uuid-aacdc02e-5255-405f-96c9-47ccc945bc8f" d="m142.41,416.81l-6.37-2.56c-2.49-1-5.39.36-6.47,3.05l-.56,1.41c-1.08,2.68.07,5.67,2.56,6.67l6.37,2.56,4.47-11.13Z"/>
+      <g>
+        <path class="uuid-9466e722-e672-4787-948f-9c4d278a6ba9" d="m156.8,422.59l-8.26-3.32-4.47,11.13,8.89,3.57c.7-3.08,2.02-8.04,3.84-11.38Z"/>
+        <path class="uuid-9466e722-e672-4787-948f-9c4d278a6ba9" d="m217.49,446.97l-17.98-7.22c-.45.23-5.56,3-5.56,10.69h0l19.07,7.66,22.08,2.41-17.61-13.54h0Z"/>
+      </g>
+      <g>
+        <polygon class="uuid-08392639-71d7-4a57-95af-fd56e50795cc" points="217.49 446.97 209.8 446.4 214.82 452.36 207.53 452.04 213.02 458.1 235.1 460.51 217.49 446.97"/>
+        <path d="m227.02,457.01l-.16.39c-.42,1.04.19,2.18,1.23,2.3l7.01.81-5.6-4.3c-.84-.64-2.06-.25-2.49.8h.01Z"/>
+      </g>
+      <g>
+        <path class="uuid-a90393e1-d2dd-4b49-89c9-adbf8df544b6" d="m140.31,415.97c-5.98,3.98-4.42,11.15-4.42,11.15l11.5,4.62s-.97-6.35,4.47-11.13l-11.55-4.64h0Z"/>
+        <path class="uuid-b089016f-54f0-4132-99a9-3ecf37549de7" d="m143.97,417.44c-2.81,1.91-5.58,6.62-4.15,11.26"/>
+        <path class="uuid-b089016f-54f0-4132-99a9-3ecf37549de7" d="m148.02,419.06c-2.81,1.91-5.58,6.62-4.15,11.26"/>
+      </g>
+    </g>
+  </g>
+</svg>

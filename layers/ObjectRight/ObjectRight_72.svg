@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-dc0d552b-3010-41b5-9640-3ce666e3ae56" data-name="BODY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .uuid-c4a04ab2-e776-497b-a81b-dee657acd080 {
+        fill: #7aa6ff;
+      }
+
+      .uuid-c4a04ab2-e776-497b-a81b-dee657acd080, .uuid-0576dbcb-5b64-4714-bee8-69c71444316d, .uuid-77079ba5-96df-4fd7-97ed-0a48f9ad260c {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .uuid-0576dbcb-5b64-4714-bee8-69c71444316d {
+        fill: #fff7f0;
+      }
+
+      .uuid-77079ba5-96df-4fd7-97ed-0a48f9ad260c {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="uuid-c4edf763-00b8-4a82-821e-a34f7b8578db" data-name="uuid-e2fbca77-8e7a-49a9-ad56-906492ae40c9">
+    <g id="uuid-821ccd8a-3f92-415c-a4fd-3435f676fbe7" data-name="uuid-e52b1ae6-7e41-417a-a53a-e6c5d75aeb92">
+      <g>
+        <path class="uuid-c4a04ab2-e776-497b-a81b-dee657acd080" d="m171.75,394.13s-4.65.45-5.76.95c-1.11.51-3.78,11.83-3.93,12.49s6.85,9.32,36.81,12.35c5.87.59,6.42-.22,6.86-2.04.44-1.82,2.36-8.9,2.53-9.64s-4.96-4.93-4.96-4.93l-1.19,4.44s-10.85-.49-19.61-3.38c-8.76-2.9-12.13-4.84-12.13-4.84l1.38-5.4Z"/>
+        <line class="uuid-77079ba5-96df-4fd7-97ed-0a48f9ad260c" x1="193.91" y1="411.28" x2="192.95" y2="415.08"/>
+        <line class="uuid-77079ba5-96df-4fd7-97ed-0a48f9ad260c" x1="200.36" y1="412.14" x2="199.39" y2="415.94"/>
+        <circle class="uuid-0576dbcb-5b64-4714-bee8-69c71444316d" cx="178.56" cy="408.85" r="12.13"/>
+        <circle class="uuid-c4a04ab2-e776-497b-a81b-dee657acd080" cx="178.56" cy="408.85" r="6.23"/>
+      </g>
+    </g>
+  </g>
+</svg>
