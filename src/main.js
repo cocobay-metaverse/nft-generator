@@ -3,6 +3,7 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const fs = require("fs");
 const convert = require("xml-js");
 const { getConflictAction, SKIP, NO_CONFLICT } = require("./conflicts");
+const { defaultNameTransform } = require("./config");
 const sha1 = require(`${basePath}/node_modules/sha1`);
 const buildDir = `${basePath}/build`;
 const layersDir = `${basePath}/layers`;
@@ -16,6 +17,7 @@ const {
   shuffleLayerConfigurations,
   debugLogs,
   extraMetadata,
+  metadataNameTransform,
   namePrefix,
   network,
   solanaMetadata,
@@ -73,6 +75,9 @@ const getElements = (path) => {
         id: index + 1,
         category: category,
         name: cleanName(i),
+        metadataName: metadataNameTransform
+          ? metadataNameTransform(cleanName(i))
+          : defaultNameTransform(cleanName(i)),
         filename: i,
         relativePath: `${category}/${i}`,
         path: `${path}${i}`,
@@ -84,7 +89,10 @@ const getElements = (path) => {
 const layersSetup = (layersOrder) => {
   const layers = layersOrder.map((layerObj, index) => ({
     id: index + 1,
-    elements: getElements(`${layersDir}/${layerObj.name}/`),
+    elements: getElements(
+      `${layersDir}/${layerObj.name}/`,
+      layerObj.metadataNameTransform,
+    ),
     name:
       layerObj.options?.["displayName"] != undefined
         ? layerObj.options?.["displayName"]
@@ -157,7 +165,7 @@ const addAttributes = (_element) => {
   let selectedElement = _element.layer.selectedElement;
   attributesList.push({
     trait_type: _element.layer.name,
-    value: selectedElement.name,
+    value: selectedElement.metadataName,
   });
 };
 

@@ -20,20 +20,46 @@ const solanaMetadata = {
   ],
 };
 
+const isTypeA = new RegExp(/^a_/);
+const isTypeB = new RegExp(/^b_/);
+const isTypeBoth = new RegExp(/^both_/);
+
+const defaultNameTransform = (name) => {
+  if (isTypeA.test(name)) {
+    return name.replace(isTypeA, "");
+  } else if (isTypeB.test(name)) {
+    return name.replace(isTypeB, "");
+  } else if (isTypeBoth.test(name)) {
+    return name.replace(isTypeBoth, "");
+  }
+
+  return name;
+};
+
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1010,
+    growEditionSizeTo: 10,
     layersOrder: [
       { name: "Background" },
-      { name: "Body" },
+      {
+        name: "Body",
+        metadataNameTransform: (name) => {
+          if (isTypeA.test(name)) {
+            //Type A body is a full body, represented by character *
+            return defaultNameTransform(name).replace(/[.]svg/, "*.svg");
+          }
+          return defaultNameTransform(name);
+        },
+      },
       { name: "Face" },
-      { name: "Clothes" },
-      { name: "Foot" },
+      { name: "Wear" },
+      { name: "Legs" },
       { name: "Hat" },
-      { name: "ObjectRight" },
-      { name: "ObjectLeft" },
+      { name: "ObjectRight", options: { displayName: "Object" } },
+      { name: "ObjectLeft", options: { displayName: "Object" } },
       { name: "Accessory" },
+      { name: "Bubble" },
     ],
   },
 ];
@@ -68,6 +94,7 @@ module.exports = {
   shuffleLayerConfigurations,
   debugLogs,
   extraMetadata,
+  defaultNameTransform,
   pixelFormat,
   namePrefix,
   network,
