@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-3017767e-a0f7-496e-a14e-6277332a1ff6" data-name="BODY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .uuid-a16bed12-8c0f-4e9e-bc7a-c9449a0ede1f {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .uuid-d6b36275-30b1-41e5-9db4-ee9da87fade1 {
+        font-family: TTTrailers-Black, 'TT Trailers';
+        font-size: 44.22px;
+        font-weight: 800;
+        letter-spacing: .01em;
+      }
+    </style>
+  </defs>
+  <path class="uuid-a16bed12-8c0f-4e9e-bc7a-c9449a0ede1f" d="m234.82,145.43c-9.89-21.59-45.38-26.51-79.27-10.99-33.89,15.52-53.35,45.61-43.46,67.2,9.89,21.59,45.38,26.51,79.27,10.99.65-.3,1.29-.6,1.92-.91,3.15-1.52,6.82-1.53,9.92.1,4.62,2.43,10.51,4.65,17.19,5.17,1.66.13,2.66-1.77,1.61-3.06-1.59-1.97-3.03-3.89-4.33-5.74-3.09-4.4-2.62-10.4,1.24-14.14,15.76-15.3,22.64-33.92,15.91-48.62Z"/>
+  <text class="uuid-d6b36275-30b1-41e5-9db4-ee9da87fade1" transform="translate(140.64 210.68) rotate(-32.06) skewX(.01)"><tspan x="0" y="0">WAGMI</tspan></text>
+</svg>

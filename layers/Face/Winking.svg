@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-175be159-db61-4df5-a3ec-4e569af78a21" data-name="BODY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .uuid-cb5ad370-d590-4d84-8471-319d1a4c5aa5 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="uuid-13c94933-b88a-4a0e-9bd5-264a3853387a" data-name="expressions">
+    <g id="uuid-006bcb9c-427f-47d9-92c9-0f51d1e9073c" data-name="mouth">
+      <circle cx="362.12" cy="293.18" r="9.78" transform="translate(-9.59 12.26) rotate(-1.91)"/>
+    </g>
+    <g id="uuid-aa5f76af-2ff8-4e7f-a2a4-73d690451a8d" data-name="eye L">
+      <circle cx="337.63" cy="273.96" r="9.78" transform="translate(-8.96 11.43) rotate(-1.91)"/>
+    </g>
+    <g id="uuid-4d2b7d8b-0a30-48e5-b672-08579e330a1a" data-name="eye R">
+      <polyline class="uuid-cb5ad370-d590-4d84-8471-319d1a4c5aa5" points="374.33 254.17 360.69 266.02 379.28 264.87"/>
+    </g>
+  </g>
+</svg>

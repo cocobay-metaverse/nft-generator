@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-d2017022-49ac-4767-bd5b-8d3e235df956" data-name="BODY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .uuid-ceb1f6db-ac22-433a-a64d-b7c361a52305 {
+        fill: #ffff0d;
+      }
+
+      .uuid-ceb1f6db-ac22-433a-a64d-b7c361a52305, .uuid-8fc51c2b-2e55-48cc-a922-83a746c6089c {
+        stroke-width: 2px;
+      }
+
+      .uuid-ceb1f6db-ac22-433a-a64d-b7c361a52305, .uuid-8fc51c2b-2e55-48cc-a922-83a746c6089c, .uuid-ededc5f7-d71c-4a39-8679-141d6e366d35 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .uuid-8fc51c2b-2e55-48cc-a922-83a746c6089c, .uuid-ededc5f7-d71c-4a39-8679-141d6e366d35 {
+        fill: none;
+      }
+
+      .uuid-ededc5f7-d71c-4a39-8679-141d6e366d35 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="uuid-2e50336c-81e2-44ae-a2f0-cfae5c829496" data-name="uuid-ca7a59fd-5ea4-4026-baf3-83b8314686b7">
+    <g>
+      <path d="m371.9,289.97c1.87,5.07-.73,10.69-5.8,12.56-5.07,1.87-10.69-.73-12.56-5.8l18.36-6.76h0Z"/>
+      <path class="uuid-ededc5f7-d71c-4a39-8679-141d6e366d35" d="m347.02,271.26c1.87,5.07-.73,10.69-5.8,12.56-5.07,1.87-10.69-.73-12.56-5.8"/>
+      <path class="uuid-ededc5f7-d71c-4a39-8679-141d6e366d35" d="m378.7,259.59c1.87,5.07-.73,10.69-5.8,12.56-5.07,1.87-10.69-.73-12.56-5.8"/>
+      <g>
+        <path class="uuid-ceb1f6db-ac22-433a-a64d-b7c361a52305" d="m394.29,286.52l-6.54-4.3c-2.76-1.82-6.22-2.22-9.33-1.07l-17.8,6.56-17.8,6.56c-3.1,1.14-5.48,3.69-6.4,6.87l-2.18,7.52c-.22.76.52,1.45,1.26,1.17l23.58-8.69c1.5-.55,2.5-1.96,2.54-3.56l.15-6.73,4.48,5.03c1.06,1.19,2.74,1.61,4.24,1.06l23.58-8.69c.74-.27.86-1.28.2-1.71l.02-.02Z"/>
+        <g>
+          <line class="uuid-8fc51c2b-2e55-48cc-a922-83a746c6089c" x1="352.99" y1="303.37" x2="353.29" y2="295.54"/>
+          <line class="uuid-8fc51c2b-2e55-48cc-a922-83a746c6089c" x1="343.37" y1="306.92" x2="344.56" y2="298.75"/>
+          <line class="uuid-8fc51c2b-2e55-48cc-a922-83a746c6089c" x1="376.62" y1="294.67" x2="371.32" y2="288.89"/>
+          <line class="uuid-8fc51c2b-2e55-48cc-a922-83a746c6089c" x1="386.25" y1="291.12" x2="380.04" y2="285.68"/>
+        </g>
+      </g>
+      <g>
+        <ellipse cx="334.14" cy="264.66" rx="11.53" ry="3.94" transform="translate(-70.88 131.8) rotate(-20.22)"/>
+        <ellipse cx="365.82" cy="252.99" rx="11.53" ry="3.94" transform="translate(-64.9 142.03) rotate(-20.22)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-0de5f23b-a9c3-41d0-a07b-55d620b71dd1" data-name="BODY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .uuid-98a7d5c3-cae7-43d0-a8db-2d531b27fa52 {
+        fill: #7aa6ff;
+      }
+
+      .uuid-98a7d5c3-cae7-43d0-a8db-2d531b27fa52, .uuid-16744c03-097f-478e-a59a-7cffde4095eb {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .uuid-16744c03-097f-478e-a59a-7cffde4095eb {
+        fill: #3ef1ff;
+      }
+    </style>
+  </defs>
+  <path class="uuid-98a7d5c3-cae7-43d0-a8db-2d531b27fa52" d="m215.33,190.99c22.77-16.43,79.18-20.03,109.99,21.2l-17.23-95.42s-96.74,13.25-113.97,94.09c6.35-8.67,21.2-19.88,21.2-19.88Z"/>
+  <polygon class="uuid-16744c03-097f-478e-a59a-7cffde4095eb" points="325.33 212.19 365.08 206.89 358.46 111.48 308.1 116.78 325.33 212.19"/>
+</svg>

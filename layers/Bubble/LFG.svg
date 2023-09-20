@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-e2080981-4772-416d-885c-19bed65ef64d" data-name="BODY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .uuid-21fe3127-efb1-4909-875d-b48272a71f56 {
+        letter-spacing: .01em;
+      }
+
+      .uuid-518702c4-9ba9-4e07-9899-642f1b7996fa {
+        letter-spacing: 0em;
+      }
+
+      .uuid-6c11546c-da3d-441e-9152-bd70187a8771 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .uuid-729b0e9f-d50b-42da-b007-5228ca342346 {
+        font-family: TTTrailers-Black, 'TT Trailers';
+        font-size: 72.38px;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <path class="uuid-6c11546c-da3d-441e-9152-bd70187a8771" d="m234.82,145.43c-9.89-21.59-45.38-26.51-79.27-10.99-33.89,15.52-53.35,45.61-43.46,67.2,9.89,21.59,45.38,26.51,79.27,10.99.65-.3,1.29-.6,1.92-.91,3.15-1.52,6.82-1.53,9.92.1,4.62,2.43,10.51,4.65,17.19,5.17,1.66.13,2.66-1.77,1.61-3.06-1.59-1.97-3.03-3.89-4.33-5.74-3.09-4.4-2.62-10.4,1.24-14.14,15.76-15.3,22.64-33.92,15.91-48.62Z"/>
+  <text class="uuid-729b0e9f-d50b-42da-b007-5228ca342346" transform="translate(155.68 213.15) rotate(-32.07) skewX(.01)"><tspan class="uuid-21fe3127-efb1-4909-875d-b48272a71f56" x="0" y="0">L</tspan><tspan class="uuid-518702c4-9ba9-4e07-9899-642f1b7996fa" x="24.03" y="0">F</tspan><tspan class="uuid-21fe3127-efb1-4909-875d-b48272a71f56" x="46.97" y="0">G</tspan></text>
+</svg>

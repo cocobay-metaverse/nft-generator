@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-783ed389-68eb-43cd-8772-5f49b9e71529" data-name="BODY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .uuid-f7dbff45-408d-444d-ade6-4633d32cb1f2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="uuid-4bc92f06-c84b-4f7f-af09-c2014f1ce8f9" data-name="mouth">
+    <path d="m371.37,289.99c1.76,5.11-.95,10.68-6.06,12.44s-10.68-.95-12.44-6.06l18.49-6.38Z"/>
+  </g>
+  <g id="uuid-285df2d9-fba6-4a75-9123-94e1b459206d" data-name="eye L">
+    <path class="uuid-f7dbff45-408d-444d-ade6-4633d32cb1f2" d="m346.88,270.76c1.76,5.11-.95,10.68-6.06,12.44s-10.68-.95-12.44-6.06"/>
+  </g>
+  <g id="uuid-a97f4a4e-8c90-4af2-892b-9ce222650c5a" data-name="eye R">
+    <path class="uuid-f7dbff45-408d-444d-ade6-4633d32cb1f2" d="m378.79,259.75c1.76,5.11-.95,10.68-6.06,12.44-5.11,1.76-10.68-.95-12.44-6.06"/>
+  </g>
+</svg>
