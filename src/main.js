@@ -271,11 +271,11 @@ const createDna = (_layers) => {
     });
 
     let layerRandNum = -1;
-
     while (layerRandNum < 0) {
-      //TODO predict infinite loop cases and better warn the user to use a different setup
       // number between 0 - totalWeight
       let random = Math.floor(Math.random() * totalWeight);
+      let traitRerollsLeft = 20;
+
       for (var i = 0; i < layer.elements.length; i++) {
         // subtract the current weight from the random weight until we reach a sub zero value.
         random -= layer.elements[i].weight;
@@ -301,10 +301,16 @@ const createDna = (_layers) => {
               );
             layerRandNum = randNum.push(`${EMPTY_CHROMOSOME_ID}:x`);
           } else {
+            if (--traitRerollsLeft == 0) {
+              //Skip layer if we haven't found anything that matches
+              layerRandNum = randNum.push(`${EMPTY_CHROMOSOME_ID}:x`);
+            }
+
             debugLogs &&
               console.log(
                 "detected conflict of type <randomize trait again> on",
                 layer.elements[i].relativePath,
+                elementsAdded,
               );
           }
 

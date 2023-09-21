@@ -39,7 +39,7 @@ const defaultNameTransform = (name) => {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 1010,
     layersOrder: [
       { name: "Background" },
       {
@@ -53,13 +53,13 @@ const layerConfigurations = [
         },
       },
       { name: "Face" },
-      { name: "Wear" },
       { name: "Legs" },
-      { name: "Hat" },
+      { name: "Wear" },
       { name: "ObjectRight", options: { displayName: "Object" } },
       { name: "ObjectLeft", options: { displayName: "Object" } },
       { name: "Accessory" },
-      { name: "Bubble" },
+      { name: "Hat" },
+      // { name: "Bubble" },
     ],
   },
 ];
