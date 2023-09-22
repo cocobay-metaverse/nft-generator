@@ -187,6 +187,46 @@ const conflicts = [
     conflictsWith: "Accessory/Musical Notes*",
     behaviour: EXCLUDE,
   },
+  {
+    pattern: "Hat/*",
+    conflictsWith: "Bubble/*",
+    behaviour: SKIP,
+  },
+  {
+    pattern: "Accessory/Headphones*",
+    conflictsWith: "Bubble/*",
+    behaviour: SKIP,
+  },
+  {
+    pattern: "Body/(a|b)_Dark Pink*",
+    conflictsWith: "Hat/Rockstar Hair*",
+    behaviour: EXCLUDE,
+  },
+  {
+    pattern: "Body/(a|b)_Light Purple*",
+    conflictsWith: "Hat/(Witch's Hat|a_Caveman Hair|a_Magician Hat)*",
+    behaviour: EXCLUDE,
+  },
+  {
+    pattern: "Body/(a|b)_Yellow*",
+    conflictsWith: "Hat/(a|b)_80's Hair*",
+    behaviour: EXCLUDE,
+  },
+  {
+    pattern: "Body/(a|b)_(Yellow|Orange)*",
+    conflictsWith: "Hat/(a|b)_Construction Helmet*",
+    behaviour: EXCLUDE,
+  },
+  {
+    pattern: "Body/(a|b)_Light Pink*",
+    conflictsWith: "Hat/(a|b)_(Gym Hair|Lovely Head)*",
+    behaviour: EXCLUDE,
+  },
+  {
+    pattern: "Body/(a|b)_Orange*",
+    conflictsWith: "Hat/(a|b)_Straw Hat*",
+    behaviour: EXCLUDE,
+  },
 ].flat();
 
 const getConflictAction = (relativePath, existingLayers) => {
