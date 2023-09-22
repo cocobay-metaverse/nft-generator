@@ -26,6 +26,7 @@ layerConfigurations.forEach((config) => {
     elements.forEach((element) => {
       // just get name and weight for each element
       let rarityDataElement = {
+        layerFrequency: layer.frequency ?? 100,
         trait: layer.metadataNameTransform
           ? layer.metadataNameTransform(element.name)
           : defaultNameTransform(element.name),
@@ -65,7 +66,9 @@ data.forEach((element) => {
 
 // convert occurrences to occurence string
 for (var layer in rarityData) {
+  let elementsInLayer = 0;
   for (var attribute in rarityData[layer]) {
+    elementsInLayer += rarityData[layer][attribute].occurrence;
     // get chance
     let chance = (
       (rarityData[layer][attribute].occurrence / editionSize) *
@@ -86,6 +89,22 @@ for (var layer in rarityData) {
       attribute
     ].occurrenceSummary = `${rarityData[layer][attribute].occurrence} in ${editionSize} editions (${chance} %)`;
   }
+
+  if (elementsInLayer < editionSize) {
+    const occurrence = editionSize - elementsInLayer;
+    const chance = ((occurrence / editionSize) * 100).toFixed(2);
+    const layerFrequency = Object.values(rarityData[layer])[0]?.layerFrequency;
+
+    rarityData[layer]["----TRAIT ABSENT----"] = {
+      layerFrequency:
+        typeof layerFrequency !== "undefined" ? 100 - layerFrequency : 0,
+      trait: "----TRAIT ABSENT----",
+      weight: 0,
+      occurrence,
+      percentage: `${chance}%`,
+      occurrenceSummary: `${occurrence} in ${editionSize} editions (${chance} %)`,
+    };
+  }
 }
 
 const layerRarityDataForCSV = [];
@@ -94,19 +113,29 @@ const layerRarityDataForCSV = [];
 for (var layer in rarityData) {
   console.log(`Trait type: ${layer}`);
   for (var trait in rarityData[layer]) {
-    console.log(rarityData[layer][trait]);
-    layerRarityDataForCSV.push({
-      ...{
-        layer: layer,
-      },
+    const outputObj = {
+      layer: layer,
       ...rarityData[layer][trait],
-    });
+      layerFrequency: `${rarityData[layer][trait].layerFrequency}%`,
+    };
+
+    console.log(outputObj);
+
+    layerRarityDataForCSV.push(outputObj);
   }
   console.log();
 }
 
 writeToCsv(
   layerRarityDataForCSV,
-  ["layer", "trait", "weight", "occurrence", "percentage", "occurrenceSummary"],
+  [
+    "layer",
+    "layerFrequency",
+    "trait",
+    "weight",
+    "occurrence",
+    "percentage",
+    "occurrenceSummary",
+  ],
   "build/rarity.csv",
 );
