@@ -96,8 +96,7 @@ for (var layer in rarityData) {
     const layerFrequency = Object.values(rarityData[layer])[0]?.layerFrequency;
 
     rarityData[layer]["----TRAIT ABSENT----"] = {
-      layerFrequency:
-        typeof layerFrequency !== "undefined" ? 100 - layerFrequency : 0,
+      layerFrequency: null,
       trait: "----TRAIT ABSENT----",
       weight: 0,
       occurrence,
@@ -113,10 +112,12 @@ const layerRarityDataForCSV = [];
 for (var layer in rarityData) {
   console.log(`Trait type: ${layer}`);
   for (var trait in rarityData[layer]) {
+    const obj = rarityData[layer][trait];
     const outputObj = {
       layer: layer,
-      ...rarityData[layer][trait],
-      layerFrequency: `${rarityData[layer][trait].layerFrequency}%`,
+      ...obj,
+      layerFrequency:
+        obj.layerFrequency === null ? "" : `${obj.layerFrequency}%`,
     };
 
     console.log(outputObj);
