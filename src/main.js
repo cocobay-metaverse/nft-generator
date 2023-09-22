@@ -109,6 +109,7 @@ const layersSetup = (layersOrder) => {
       layerObj.options?.["bypassDNA"] !== undefined
         ? layerObj.options?.["bypassDNA"]
         : false,
+    frequency: layerObj.frequency,
   }));
 
   return layers;
@@ -129,7 +130,7 @@ const addMetadata = (_dna, _edition) => {
     date: dateTime,
     ...extraMetadata,
     attributes: attributesList,
-    compiler: "HashLips Art Engine",
+    compiler: "COCOBAY Art Engine, based on HashLips",
   };
   if (network == NETWORK.sol) {
     tempMetadata = {
@@ -265,6 +266,15 @@ const createDna = (_layers) => {
   const elementsAdded = [];
 
   _layers.forEach((layer) => {
+    //Skip layers given a certain frequency
+    if (layer.frequency) {
+      let random = Math.floor(Math.random() * 100);
+      if (random < 100 - layer.frequency) {
+        randNum.push(`${EMPTY_CHROMOSOME_ID}:x`);
+        return;
+      }
+    }
+
     var totalWeight = 0;
     layer.elements.forEach((element) => {
       totalWeight += element.weight;

@@ -42,24 +42,19 @@ const layerConfigurations = [
     growEditionSizeTo: 1010,
     layersOrder: [
       { name: "Background" },
-      {
-        name: "Body",
-        metadataNameTransform: (name) => {
-          if (isTypeA.test(name)) {
-            //Type A body is a full body, represented by character *
-            return defaultNameTransform(name).replace(/[.]svg/, "*.svg");
-          }
-          return defaultNameTransform(name);
-        },
-      },
+      { name: "Body" },
       { name: "Face" },
-      { name: "Legs" },
-      { name: "Wear" },
-      { name: "ObjectRight", options: { displayName: "Object" } },
-      { name: "ObjectLeft", options: { displayName: "Object" } },
-      { name: "Accessory" },
-      { name: "Hat" },
-      // { name: "Bubble" },
+      { name: "Legs", frequency: 50 },
+      { name: "Wear", frequency: 50 },
+      {
+        name: "ObjectRight",
+        frequency: 50,
+        options: { displayName: "Object" },
+      },
+      { name: "ObjectLeft", frequency: 50, options: { displayName: "Object" } },
+      { name: "Accessory", frequency: 15 },
+      { name: "Hat", frequency: 25 },
+      { name: "Bubble", frequency: 10 },
     ],
   },
 ];
