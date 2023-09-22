@@ -5,6 +5,8 @@ const layersDir = `${basePath}/layers`;
 const { layerConfigurations } = require(`${basePath}/src/config.js`);
 
 const { getElements } = require("../src/main.js");
+const { defaultNameTransform } = require("../src/config.js");
+const { writeToCsv } = require("./jsonToCSV.js");
 
 // read json data
 let rawdata = fs.readFileSync(`${basePath}/build/json/_metadata.json`);
@@ -24,7 +26,9 @@ layerConfigurations.forEach((config) => {
     elements.forEach((element) => {
       // just get name and weight for each element
       let rarityDataElement = {
-        trait: element.name,
+        trait: layer.metadataNameTransform
+          ? layer.metadataNameTransform(element.name)
+          : defaultNameTransform(element.name),
         weight: element.weight.toFixed(0),
         occurrence: 0, // initialize at 0
       };
@@ -63,20 +67,46 @@ data.forEach((element) => {
 for (var layer in rarityData) {
   for (var attribute in rarityData[layer]) {
     // get chance
-    let chance =
-      ((rarityData[layer][attribute].occurrence / editionSize) * 100).toFixed(2);
+    let chance = (
+      (rarityData[layer][attribute].occurrence / editionSize) *
+      100
+    ).toFixed(2);
+
+    if (rarityData[layer][attribute].occurrence == 0) {
+      console.error(
+        `Error! Trait not present in collection: Layer ${layer}, trait ${rarityData[layer][attribute].trait}`,
+      );
+      process.exit(1);
+    }
+
+    rarityData[layer][attribute].percentage = `${chance}%`;
 
     // show two decimal places in percent
-    rarityData[layer][attribute].occurrence =
-      `${rarityData[layer][attribute].occurrence} in ${editionSize} editions (${chance} %)`;
+    rarityData[layer][
+      attribute
+    ].occurrenceSummary = `${rarityData[layer][attribute].occurrence} in ${editionSize} editions (${chance} %)`;
   }
 }
+
+const layerRarityDataForCSV = [];
 
 // print out rarity data
 for (var layer in rarityData) {
   console.log(`Trait type: ${layer}`);
   for (var trait in rarityData[layer]) {
     console.log(rarityData[layer][trait]);
+    layerRarityDataForCSV.push({
+      ...{
+        layer: layer,
+      },
+      ...rarityData[layer][trait],
+    });
   }
   console.log();
 }
+
+writeToCsv(
+  layerRarityDataForCSV,
+  ["layer", "trait", "weight", "occurrence", "percentage", "occurrenceSummary"],
+  "build/rarity.csv",
+);

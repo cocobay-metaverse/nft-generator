@@ -12,7 +12,7 @@
     ]
   },
   "scripts": {
-    "build": "node index.js",
+    "build": "yarn generate && yarn rarity",
     "generate": "node index.js",
     "rarity": "node utils/rarity.js",
     "update_info": "node utils/update_info.js"
@@ -21,6 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "gif-encoder-2": "^1.0.5",
+    "json2csv": "^6.0.0-alpha.2",
     "micromatch": "^4.0.5",
     "sha1": "^1.1.1",
     "xml-js": "^1.6.11"
