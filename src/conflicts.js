@@ -131,6 +131,22 @@ const conflicts = [
     behaviour: EXCLUDE,
   },
   {
+    pattern: "Wear/(Fancy Dress|Green Dress|Magician Dress|Yellow Costume)*",
+    conflictsWith:
+      "ObjectRight/(Bracelet|Casual Watch|Coco Book|Electric Guitar|Pendrive|Skate)*",
+    behaviour: EXCLUDE,
+  },
+  {
+    pattern: "Wear/(Farmer Costume)*",
+    conflictsWith: "ObjectRight/(Pendrive|Skate)*",
+    behaviour: EXCLUDE,
+  },
+  {
+    pattern: "Wear/Peace Necklace*",
+    conflictsWith: "ObjectRight/Electric Guitar*",
+    behaviour: EXCLUDE,
+  },
+  {
     pattern: "Accessory/*",
     conflictsWith: "Hat/Astronaut Helmet*",
     behaviour: EXCLUDE,
