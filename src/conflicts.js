@@ -177,7 +177,7 @@ const conflicts = [
     behaviour: EXCLUDE,
   },
   {
-    pattern: "Face/(Calm|Farmer|Joyful|Love)*",
+    pattern: "Face/(Calm|Moustache|Joyful|Love)*",
     conflictsWith: "Accessory/(Blue Goggles|Pink Goggles|PeaceGoggles)*",
     behaviour: EXCLUDE,
   },
