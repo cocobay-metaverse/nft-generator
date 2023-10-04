@@ -161,6 +161,11 @@ const conflicts = [
     behaviour: EXCLUDE,
   },
   {
+    pattern: "Face/(Calm|Farmer|Joyful|Love)*",
+    conflictsWith: "Accessory/(Blue Goggles|Pink Goggles|PeaceGoggles)*",
+    behaviour: EXCLUDE,
+  },
+  {
     pattern:
       "Wear/(Fancy Dress|Farmer Costume|Green Dress|Magician Dress|Peace Neckclace|Yellow Costume)*",
     conflictsWith: "Accessory/Tattoos*",
