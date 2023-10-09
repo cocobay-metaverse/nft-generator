@@ -43,7 +43,7 @@ const getRarityWeight = (_str) => {
     nameWithoutExtension.split(rarityDelimiter).pop(),
   );
   if (isNaN(nameWithoutWeight)) {
-    nameWithoutWeight = 1;
+    nameWithoutWeight = 100;
   }
   return nameWithoutWeight;
 };
