@@ -190,7 +190,7 @@ const conflicts = [
   {
     pattern:
       "Wear/(Blue Jeans|Fancy Dress|Farmer Costume|Magician Dress|Yellow Costume)*",
-    conflictsWith: "Legs/Casted Leg*",
+    conflictsWith: "Legs/Cast Leg*",
     behaviour: EXCLUDE,
   },
   {
@@ -201,7 +201,7 @@ const conflicts = [
   {
     pattern: "ObjectRight/both_Cables*",
     conflictsWith:
-      "Legs/(Black Boots|Casted Leg|Hipster Shoes|Old Stars Shoes|Retro Roller Skate)*",
+      "Legs/(Black Boots|Cast Leg|Hipster Shoes|Old Stars Shoes|Retro Roller Skate)*",
     behaviour: EXCLUDE,
   },
   {
