@@ -205,6 +205,11 @@ const conflicts = [
     behaviour: EXCLUDE,
   },
   {
+    pattern: "ObjectRight/Electric Guitar*",
+    conflictsWith: "ObjectLeft/Magic Wand*",
+    behaviour: EXCLUDE,
+  },
+  {
     pattern: "ObjectLeft/(Beer Jar|Hand Fan|Rainbow Parchment)*",
     conflictsWith: "Accessory/Tattoos*",
     behaviour: EXCLUDE,
