@@ -199,6 +199,12 @@ const conflicts = [
     behaviour: EXCLUDE,
   },
   {
+    pattern: "ObjectRight/both_Cables*",
+    conflictsWith:
+      "Legs/(Black Boots|Casted Leg|Hipster Shoes|Old Stars Shoes|Retro Roller Skate)*",
+    behaviour: EXCLUDE,
+  },
+  {
     pattern: "ObjectLeft/(Beer Jar|Hand Fan|Rainbow Parchment)*",
     conflictsWith: "Accessory/Tattoos*",
     behaviour: EXCLUDE,
