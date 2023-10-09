@@ -72,7 +72,7 @@ const conflicts = [
   },
   {
     pattern: "Body/(a|b)_Yellow*",
-    conflictsWith: "Wear/(Basketballer|Peace Neckclace|Yellow Costume)*",
+    conflictsWith: "Wear/(Basketballer|Peace Necklace|Yellow Costume)*",
     behaviour: EXCLUDE,
   },
   {
@@ -183,7 +183,7 @@ const conflicts = [
   },
   {
     pattern:
-      "Wear/(Fancy Dress|Farmer Costume|Green Dress|Magician Dress|Peace Neckclace|Yellow Costume)*",
+      "Wear/(Fancy Dress|Farmer Costume|Green Dress|Magician Dress|Peace Necklace|Yellow Costume)*",
     conflictsWith: "Accessory/Tattoos*",
     behaviour: EXCLUDE,
   },
