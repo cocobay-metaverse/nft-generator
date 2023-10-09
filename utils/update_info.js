@@ -22,17 +22,17 @@ data.forEach((item) => {
   } else {
     item.name = `${namePrefix} #${item.edition}`;
     item.description = description;
-    item.image = `${baseUri}/${item.edition}.png`;
+    item.image = `${baseUri}/${item.edition}.svg`;
   }
   fs.writeFileSync(
     `${basePath}/build/json/${item.edition}.json`,
-    JSON.stringify(item, null, 2)
+    JSON.stringify(item, null, 2),
   );
 });
 
 fs.writeFileSync(
   `${basePath}/build/json/_metadata.json`,
-  JSON.stringify(data, null, 2)
+  JSON.stringify(data, null, 2),
 );
 
 if (network == NETWORK.sol) {
@@ -40,8 +40,8 @@ if (network == NETWORK.sol) {
   console.log(`Updated name prefix for images to ===> ${namePrefix}`);
   console.log(
     `Updated creators for images to ===> ${JSON.stringify(
-      solanaMetadata.creators
-    )}`
+      solanaMetadata.creators,
+    )}`,
   );
 } else {
   console.log(`Updated baseUri for images to ===> ${baseUri}`);
