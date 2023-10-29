@@ -1,12 +1,14 @@
 const basePath = process.cwd();
 const { NETWORK } = require(`${basePath}/constants/network.js`);
 const fs = require("fs");
+const path = require("path");
 const convert = require("xml-js");
 const { getConflictAction, SKIP, NO_CONFLICT } = require("./conflicts");
 const { defaultNameTransform } = require("./config");
 const sha1 = require(`${basePath}/node_modules/sha1`);
 const buildDir = `${basePath}/build`;
 const layersDir = `${basePath}/layers`;
+const batchDir = `${basePath}/batch`;
 const {
   format,
   baseUri,
@@ -26,11 +28,12 @@ const {
 var metadataList = [];
 var attributesList = [];
 var dnaList = new Set();
+var previousEditions = 0;
 const DNA_DELIMITER = "-";
 
 const buildSetup = () => {
   if (fs.existsSync(buildDir)) {
-    fs.rmdirSync(buildDir, { recursive: true });
+    fs.rmSync(buildDir, { recursive: true, force: true });
   }
   fs.mkdirSync(buildDir);
   fs.mkdirSync(`${buildDir}/json`);
@@ -122,11 +125,11 @@ const saveImage = (_editionCount, contents) => {
 const addMetadata = (_dna, _edition) => {
   let dateTime = Date.now();
   let tempMetadata = {
-    name: `${namePrefix} #${_edition}`,
+    name: `${namePrefix} #${previousEditions + _edition}`,
     description: description,
     image: `${baseUri}/${_edition}.svg`,
     dna: sha1(_dna),
-    edition: _edition,
+    edition: previousEditions + _edition,
     date: dateTime,
     ...extraMetadata,
     attributes: attributesList,
@@ -337,8 +340,25 @@ const writeMetaData = (_data) => {
   fs.writeFileSync(`${buildDir}/json/_metadata.json`, _data);
 };
 
+const loadDnaData = () => {
+  const historyFile = `${batchDir}/batch_history.json`;
+  if (fs.existsSync(historyFile)) {
+    JSON.parse(fs.readFileSync(historyFile)).map((dna) => dnaList.add(dna));
+    previousEditions = dnaList.size;
+  }
+};
+
+const writeBatchHistory = () => {
+  fs.writeFileSync(
+    `${batchDir}/batch_history.json`,
+    JSON.stringify(Array.from(dnaList)),
+  );
+};
+
 const saveMetaDataSingleFile = (_editionCount) => {
-  let metadata = metadataList.find((meta) => meta.edition == _editionCount);
+  let metadata = metadataList.find(
+    (meta) => meta.edition == previousEditions + _editionCount,
+  );
   debugLogs
     ? console.log(
         `Writing metadata for ${_editionCount}: ${JSON.stringify(metadata)}`,
@@ -365,6 +385,8 @@ function shuffle(array) {
 }
 
 const startCreating = async () => {
+  loadDnaData();
+
   let layerConfigIndex = 0;
   let editionCount = 1;
   let failedCount = 0;
@@ -436,6 +458,9 @@ const startCreating = async () => {
     layerConfigIndex++;
   }
   writeMetaData(JSON.stringify(metadataList, null, 2));
+  writeBatchHistory();
+  console.log("Current collection size: ", dnaList.size);
+  console.log("DNA collisions found and fixed: ", failedCount);
 };
 
 module.exports = { startCreating, buildSetup, getElements };
