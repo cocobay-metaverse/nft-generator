@@ -110,7 +110,6 @@ const layerRarityDataForCSV = [];
 
 // print out rarity data
 for (var layer in rarityData) {
-  console.log(`Trait type: ${layer}`);
   for (var trait in rarityData[layer]) {
     const obj = rarityData[layer][trait];
     const outputObj = {
@@ -120,11 +119,8 @@ for (var layer in rarityData) {
         obj.layerFrequency === null ? "" : `${obj.layerFrequency}%`,
     };
 
-    console.log(outputObj);
-
     layerRarityDataForCSV.push(outputObj);
   }
-  console.log();
 }
 
 writeToCsv(
