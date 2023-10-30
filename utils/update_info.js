@@ -14,6 +14,8 @@ const {
 let rawdata = fs.readFileSync(`${basePath}/build/json/_metadata.json`);
 let data = JSON.parse(rawdata);
 
+const startIndex = data[0].edition - 1;
+
 data.forEach((item) => {
   if (network == NETWORK.sol) {
     item.name = `${namePrefix} #${item.edition}`;
@@ -22,10 +24,10 @@ data.forEach((item) => {
   } else {
     item.name = `${namePrefix} #${item.edition}`;
     item.description = description;
-    item.image = `${baseUri}/${item.edition}.svg`;
+    item.image = `${baseUri}/${item.edition - startIndex}.svg`;
   }
   fs.writeFileSync(
-    `${basePath}/build/json/${item.edition}.json`,
+    `${basePath}/build/json/${item.edition - startIndex}.json`,
     JSON.stringify(item, null, 2),
   );
 });
