@@ -1,0 +1,39 @@
+{
+  "name": "COCO #659",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/659.svg",
+  "dna": "35312961033fb80a960c270b39dae2381a40eeee",
+  "edition": 659,
+  "date": 1698620956187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Caveman Hair"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

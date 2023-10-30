@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1453",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/443.svg",
+  "dna": "df5df7acfe7a2e6b35613a7b60acc54cdb4d4233",
+  "edition": 1453,
+  "date": 1698621002384,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

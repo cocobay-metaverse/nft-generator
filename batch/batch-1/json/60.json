@@ -1,0 +1,35 @@
+{
+  "name": "COCO #60",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/60.svg",
+  "dna": "0ca65794dbb3f16de3d8a4d7b3ba5fc0aac4a325",
+  "edition": 60,
+  "date": 1698620955018,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Caveman Club"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "COCO #129",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/129.svg",
+  "dna": "170031e0aea9e2f518fa9ae7b3518aeef599372b",
+  "edition": 129,
+  "date": 1698620955167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hammer"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tattoos"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Rainbow Hair"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "COCO #947",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/947.svg",
+  "dna": "3b547113351ddddb79dc53d2dad3db7d9393cced",
+  "edition": 947,
+  "date": 1698620956742,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pendrive"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Samurai Brain"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

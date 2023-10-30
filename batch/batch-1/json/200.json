@@ -1,0 +1,31 @@
+{
+  "name": "COCO #200",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/200.svg",
+  "dna": "a41e63903c449175466850a372654e4347876e00",
+  "edition": 200,
+  "date": 1698620955334,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

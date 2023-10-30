@@ -1,0 +1,43 @@
+{
+  "name": "COCO #1033",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/23.svg",
+  "dna": "6788598367364e8cff49fd179cd033c433d92b5d",
+  "edition": 1033,
+  "date": 1698621001383,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "COCO"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

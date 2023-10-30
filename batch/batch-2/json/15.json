@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1025",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/15.svg",
+  "dna": "6207420fefbdd113a115feee9fc394dc42f71079",
+  "edition": 1025,
+  "date": 1698621001360,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Bans Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Rainbow Hat"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

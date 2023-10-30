@@ -1,0 +1,35 @@
+{
+  "name": "COCO #821",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/821.svg",
+  "dna": "75d43d1ca6ade62a4329b125c902e3969a511f98",
+  "edition": 821,
+  "date": 1698620956507,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Coco Book"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Rainbow Hair"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

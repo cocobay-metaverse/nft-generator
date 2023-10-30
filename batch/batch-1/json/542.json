@@ -1,0 +1,39 @@
+{
+  "name": "COCO #542",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/542.svg",
+  "dna": "76ad7eb9f1e8d3b931515a7ed77fdb9552c4eab9",
+  "edition": 542,
+  "date": 1698620955990,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Astronaut Helmet"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

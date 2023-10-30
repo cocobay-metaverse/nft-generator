@@ -1,0 +1,39 @@
+{
+  "name": "COCO #557",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/557.svg",
+  "dna": "ba63109b0e7ca69c567e8755d2bf36ffd30c43f8",
+  "edition": 557,
+  "date": 1698620956015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Ghettoblaster"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Plastic Straw"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

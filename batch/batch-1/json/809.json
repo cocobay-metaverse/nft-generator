@@ -1,0 +1,35 @@
+{
+  "name": "COCO #809",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/809.svg",
+  "dna": "5a5cdb765c080b0dbe535baa00c2996b71225596",
+  "edition": 809,
+  "date": 1698620956486,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Magician Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Cables"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

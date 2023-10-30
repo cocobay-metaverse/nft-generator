@@ -1,0 +1,35 @@
+{
+  "name": "COCO #472",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/472.svg",
+  "dna": "7c622325a7de8ea76669411cd40c396dbb16ce19",
+  "edition": 472,
+  "date": 1698620955847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hammer"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

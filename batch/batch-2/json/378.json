@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1388",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/378.svg",
+  "dna": "bf782101e49de059573b63f2ced61c5d8157669d",
+  "edition": 1388,
+  "date": 1698621002255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "OK"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

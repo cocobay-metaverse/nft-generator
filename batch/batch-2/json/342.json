@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1352",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/342.svg",
+  "dna": "06b0d4c840133e887ab582106e6b7f7a92efe8e2",
+  "edition": 1352,
+  "date": 1698621002196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Cables"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "COCO #830",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/830.svg",
+  "dna": "19042c8ebb3f06a4afecf3e9f86cbaa166be563e",
+  "edition": 830,
+  "date": 1698620956522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Bans Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

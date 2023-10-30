@@ -1,0 +1,35 @@
+{
+  "name": "COCO #529",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/529.svg",
+  "dna": "41a921be7681eb7614c58cec67d596e03af8a3c9",
+  "edition": 529,
+  "date": 1698620955962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Caveman Club"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

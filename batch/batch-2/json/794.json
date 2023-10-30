@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1804",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/794.svg",
+  "dna": "de79e562d1cdca3c5b8e248eba2a4ae8f5d889de",
+  "edition": 1804,
+  "date": 1698621003073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Rainbow Hair"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

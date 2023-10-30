@@ -1,0 +1,35 @@
+{
+  "name": "COCO #587",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/587.svg",
+  "dna": "fb859c98b5da4e9728d20b6763ce26ed4cf66e7f",
+  "edition": 587,
+  "date": 1698620956069,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

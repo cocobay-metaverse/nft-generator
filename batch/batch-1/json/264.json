@@ -1,0 +1,31 @@
+{
+  "name": "COCO #264",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/264.svg",
+  "dna": "d02778c750239da8150dae9be4787a6fa62e94c4",
+  "edition": 264,
+  "date": 1698620955451,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Flower"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "COCO #505",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/505.svg",
+  "dna": "18023938fdc1f1ba86ab1bab6daf9347a97ce4b0",
+  "edition": 505,
+  "date": 1698620955920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skipping Rope"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1170",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/160.svg",
+  "dna": "b41e29f05d13f77b84ac055a3f643b69d958091b",
+  "edition": 1170,
+  "date": 1698621001707,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Circus Cocktail"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

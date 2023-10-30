@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1165",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/155.svg",
+  "dna": "be129193955c5b9db0b43988f23df67825a3ddfb",
+  "edition": 1165,
+  "date": 1698621001699,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hammer"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tattoos"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

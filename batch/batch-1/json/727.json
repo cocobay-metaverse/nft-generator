@@ -1,0 +1,27 @@
+{
+  "name": "COCO #727",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/727.svg",
+  "dna": "8db2e81dcf05d579d5d1760eb5617808ba2c2a33",
+  "edition": 727,
+  "date": 1698620956333,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lollipop"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

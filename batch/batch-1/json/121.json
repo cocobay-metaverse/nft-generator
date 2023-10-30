@@ -1,0 +1,31 @@
+{
+  "name": "COCO #121",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/121.svg",
+  "dna": "5f360a3ed31fd114a0e3f2088e9734d0e34b591b",
+  "edition": 121,
+  "date": 1698620955155,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Coco Book"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lollipop"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

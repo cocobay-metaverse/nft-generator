@@ -1,0 +1,27 @@
+{
+  "name": "COCO #55",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/55.svg",
+  "dna": "321f80e138d1e124a2fcdd9b8cda83fd8bdf5e7e",
+  "edition": 55,
+  "date": 1698620955004,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skipping Rope"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

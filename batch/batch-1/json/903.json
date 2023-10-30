@@ -1,0 +1,31 @@
+{
+  "name": "COCO #903",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/903.svg",
+  "dna": "5fcf952c070dc4c8dc42b527a9e55bbd78fd51ce",
+  "edition": 903,
+  "date": 1698620956658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Yellow Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

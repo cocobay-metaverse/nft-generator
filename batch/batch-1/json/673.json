@@ -1,0 +1,31 @@
+{
+  "name": "COCO #673",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/673.svg",
+  "dna": "3ae36e1b7078313eb3571f01ae5b07b8826e27c9",
+  "edition": 673,
+  "date": 1698620956207,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Rainbow Parchment"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Japanese Mask"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

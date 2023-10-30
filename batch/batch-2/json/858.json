@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1868",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/858.svg",
+  "dna": "e7a3affe4abc56f522693b394777e85e3244fbd9",
+  "edition": 1868,
+  "date": 1698621003218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Samurai Brain"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

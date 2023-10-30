@@ -1,0 +1,39 @@
+{
+  "name": "COCO #700",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/700.svg",
+  "dna": "b3d010b29f08665dd6e2a12b8c096ba86e478738",
+  "edition": 700,
+  "date": 1698620956269,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Casual Watch"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "OG"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

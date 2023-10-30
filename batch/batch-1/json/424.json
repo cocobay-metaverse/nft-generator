@@ -1,0 +1,39 @@
+{
+  "name": "COCO #424",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/424.svg",
+  "dna": "fc6b63e35d4b9d348cd0b9f78ca8da6db79db4dc",
+  "edition": 424,
+  "date": 1698620955748,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Gym Hair"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

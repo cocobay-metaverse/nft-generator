@@ -1,0 +1,35 @@
+{
+  "name": "COCO #2014",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/1004.svg",
+  "dna": "43beeeb4d2945f2dde159069433f9d78792b3fed",
+  "edition": 2014,
+  "date": 1698621003512,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pendrive"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Snow Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

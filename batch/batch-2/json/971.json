@@ -1,0 +1,23 @@
+{
+  "name": "COCO #1981",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/971.svg",
+  "dna": "bf781616fb8d01b89890c9ccbc8195717b2014b5",
+  "edition": 1981,
+  "date": 1698621003449,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

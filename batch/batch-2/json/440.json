@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1450",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/440.svg",
+  "dna": "9746a09ed865e386754cf38ee8e938bea1b27821",
+  "edition": 1450,
+  "date": 1698621002378,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Yellow Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Musical Notes"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

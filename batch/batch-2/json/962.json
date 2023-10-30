@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1972",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/962.svg",
+  "dna": "d09a491923d57b5a1b326726ade638ec732730ac",
+  "edition": 1972,
+  "date": 1698621003431,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Old Stars Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skipping Rope"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "80's Hair"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

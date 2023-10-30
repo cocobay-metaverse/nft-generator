@@ -1,0 +1,31 @@
+{
+  "name": "COCO #877",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/877.svg",
+  "dna": "9651fe84e2b1b2d32fc3c654eb3c3920d66e7bb2",
+  "edition": 877,
+  "date": 1698620956604,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skipping Rope"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

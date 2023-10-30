@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1712",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/702.svg",
+  "dna": "b2911c2469b26541ffcd0504d2900924760806a5",
+  "edition": 1712,
+  "date": 1698621002902,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

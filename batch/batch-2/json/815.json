@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1825",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/815.svg",
+  "dna": "4e0b523172563484af14ca18e0c1ac4973f7a988",
+  "edition": 1825,
+  "date": 1698621003134,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Japanese Mask"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "OK"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

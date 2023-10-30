@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1963",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/953.svg",
+  "dna": "4e8c51e48a5b88ba1f05a3749705377a65a2f85f",
+  "edition": 1963,
+  "date": 1698621003417,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Coco Book"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

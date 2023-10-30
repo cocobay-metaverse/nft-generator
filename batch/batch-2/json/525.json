@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1535",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/525.svg",
+  "dna": "3579b28d87798c99156168d37127eafc80269f98",
+  "edition": 1535,
+  "date": 1698621002532,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Bans Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Magician Dress"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

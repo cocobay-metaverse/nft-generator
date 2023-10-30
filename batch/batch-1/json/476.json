@@ -1,0 +1,39 @@
+{
+  "name": "COCO #476",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/476.svg",
+  "dna": "f299a8dab7d4d8c9b67aec75224d1e22d02a9af3",
+  "edition": 476,
+  "date": 1698620955853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blue Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lovely Head"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

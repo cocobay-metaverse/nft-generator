@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1902",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/892.svg",
+  "dna": "6f233df07bf45e9ad32765e45d93b85ff51762ab",
+  "edition": 1902,
+  "date": 1698621003272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pendrive"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

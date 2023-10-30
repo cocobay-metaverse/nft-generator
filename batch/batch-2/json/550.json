@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1560",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/550.svg",
+  "dna": "a1bf26d94135b3f0474dc7cfa2914efad53e7a69",
+  "edition": 1560,
+  "date": 1698621002580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Caveman Club"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

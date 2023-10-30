@@ -1,0 +1,39 @@
+{
+  "name": "COCO #858",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/858.svg",
+  "dna": "84bbeedc6627d21b52ab75eab122795b7236f5ca",
+  "edition": 858,
+  "date": 1698620956575,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Home Espadrilles"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cocktail Umbrella"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

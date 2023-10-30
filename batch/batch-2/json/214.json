@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1224",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/214.svg",
+  "dna": "a0aca617db6bfc9021f1d90c0caa158a094107c0",
+  "edition": 1224,
+  "date": 1698621001851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Witch's Hat"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

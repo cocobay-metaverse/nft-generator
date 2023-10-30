@@ -1,0 +1,31 @@
+{
+  "name": "COCO #813",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/813.svg",
+  "dna": "4f7453076895847e541f3ba08098afb92ca7f766",
+  "edition": 813,
+  "date": 1698620956491,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Flower"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

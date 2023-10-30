@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1817",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/807.svg",
+  "dna": "00ab32cd00d07c1b8542f03758a8bd48c0e73951",
+  "edition": 1817,
+  "date": 1698621003121,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pendrive"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

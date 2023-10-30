@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1922",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/912.svg",
+  "dna": "e2b6fffe6a4109e2b80953ff7bd0ce60705a4193",
+  "edition": 1922,
+  "date": 1698621003314,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Rainbow Parchment"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

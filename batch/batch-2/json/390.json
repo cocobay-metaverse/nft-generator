@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1400",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/390.svg",
+  "dna": "cb37c807f52f17f5794a45eecd68c32b0b8f201b",
+  "edition": 1400,
+  "date": 1698621002280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

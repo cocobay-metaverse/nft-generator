@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1583",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/573.svg",
+  "dna": "45e62ae5fb5eedecbd5a89a143f362e7e54349ce",
+  "edition": 1583,
+  "date": 1698621002628,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hand Fan"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Musical Notes"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

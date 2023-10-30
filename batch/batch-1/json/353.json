@@ -1,0 +1,31 @@
+{
+  "name": "COCO #353",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/353.svg",
+  "dna": "1ff76c2c043b4d846363db648ec1b3dcb9009e1a",
+  "edition": 353,
+  "date": 1698620955628,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lovely Head"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

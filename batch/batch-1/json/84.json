@@ -1,0 +1,31 @@
+{
+  "name": "COCO #84",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/84.svg",
+  "dna": "3cd5ef1a6a4265354221416a79bb0589a859b0f4",
+  "edition": 84,
+  "date": 1698620955072,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tattoos"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

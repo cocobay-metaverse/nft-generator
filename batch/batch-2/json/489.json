@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1499",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/489.svg",
+  "dna": "a5894c3f09ae0b735fc73d35d1a7e441ca83519c",
+  "edition": 1499,
+  "date": 1698621002460,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Home Espadrilles"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Samurai Brain"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

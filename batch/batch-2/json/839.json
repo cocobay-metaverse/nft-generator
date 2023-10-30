@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1849",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/839.svg",
+  "dna": "602595c98202f21c67919040be82ee01dc0bf98e",
+  "edition": 1849,
+  "date": 1698621003179,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Cables"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "LFG"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

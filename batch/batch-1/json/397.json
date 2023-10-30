@@ -1,0 +1,31 @@
+{
+  "name": "COCO #397",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/397.svg",
+  "dna": "52050a0f1ff4e016d1a5c66653bfc70274ac7387",
+  "edition": 397,
+  "date": 1698620955700,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Ghettoblaster"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

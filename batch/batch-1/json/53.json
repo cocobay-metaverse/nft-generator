@@ -1,0 +1,31 @@
+{
+  "name": "COCO #53",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/53.svg",
+  "dna": "8e671c56446e159d4e3792a966879a666bd3cdd6",
+  "edition": 53,
+  "date": 1698620955001,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Witch's Hat"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

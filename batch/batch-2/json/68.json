@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1078",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/68.svg",
+  "dna": "f64194976df12bbeb381a2a05e10a253f1403f1d",
+  "edition": 1078,
+  "date": 1698621001488,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Bans Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Casual Watch"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

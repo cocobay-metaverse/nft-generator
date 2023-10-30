@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1598",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/588.svg",
+  "dna": "e188903fecf7b8bd679c0634f7b8084e606b81c1",
+  "edition": 1598,
+  "date": 1698621002660,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Bans Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "BFF"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

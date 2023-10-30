@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1370",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/360.svg",
+  "dna": "557c7c1855e04385a9676412f1f689583f38a3f5",
+  "edition": 1370,
+  "date": 1698621002226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

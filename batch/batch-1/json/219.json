@@ -1,0 +1,35 @@
+{
+  "name": "COCO #219",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/219.svg",
+  "dna": "fa06f9e0317d075c753042aecbedac5371b7c7ed",
+  "edition": 219,
+  "date": 1698620955368,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Ghettoblaster"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

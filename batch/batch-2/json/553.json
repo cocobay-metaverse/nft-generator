@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1563",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/553.svg",
+  "dna": "e865057287415ad0cf778162b595ae2e3cb12357",
+  "edition": 1563,
+  "date": 1698621002585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Casual Watch"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

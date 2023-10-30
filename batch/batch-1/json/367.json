@@ -1,0 +1,27 @@
+{
+  "name": "COCO #367",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/367.svg",
+  "dna": "4f74c0d84db284dbc0a7d1e0e3f1990c3ce8415f",
+  "edition": 367,
+  "date": 1698620955647,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

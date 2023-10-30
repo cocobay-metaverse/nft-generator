@@ -1,0 +1,35 @@
+{
+  "name": "COCO #258",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/258.svg",
+  "dna": "3b46cdec8aa8f5c353a9d270b0e05286f5173927",
+  "edition": 258,
+  "date": 1698620955441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cocktail Umbrella"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

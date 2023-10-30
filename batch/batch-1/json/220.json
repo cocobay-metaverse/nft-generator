@@ -1,0 +1,31 @@
+{
+  "name": "COCO #220",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/220.svg",
+  "dna": "c3a1cf3c49a1ef3878b0936ae0deba18caf823ee",
+  "edition": 220,
+  "date": 1698620955369,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

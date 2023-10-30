@@ -1,0 +1,27 @@
+{
+  "name": "COCO #157",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/157.svg",
+  "dna": "c592e6258c7214d53fbc84bf52ac9ce46b5ec073",
+  "edition": 157,
+  "date": 1698620955214,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Cables"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

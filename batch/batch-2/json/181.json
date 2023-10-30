@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1191",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/181.svg",
+  "dna": "2668240d469f12fbca1c27262b9f48ab296daadd",
+  "edition": 1191,
+  "date": 1698621001760,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

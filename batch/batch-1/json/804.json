@@ -1,0 +1,35 @@
+{
+  "name": "COCO #804",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/804.svg",
+  "dna": "f10b234a0c8ed7a9181277b8b928d327403ec23d",
+  "edition": 804,
+  "date": 1698620956478,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Old Stars Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Caveman Club"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

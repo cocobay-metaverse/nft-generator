@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1445",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/435.svg",
+  "dna": "81d5ba89501a42e93ae59da072c6b3787b9e961c",
+  "edition": 1445,
+  "date": 1698621002367,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "OG"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

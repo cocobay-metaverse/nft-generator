@@ -1,0 +1,31 @@
+{
+  "name": "COCO #300",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/300.svg",
+  "dna": "da406aa85f25528b0e81b424aead3005dc41c68c",
+  "edition": 300,
+  "date": 1698620955522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

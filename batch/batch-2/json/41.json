@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1051",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/41.svg",
+  "dna": "660e0571991bf831942b8141c691678ceb5458bb",
+  "edition": 1051,
+  "date": 1698621001422,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

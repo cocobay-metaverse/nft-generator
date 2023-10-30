@@ -1,0 +1,31 @@
+{
+  "name": "COCO #711",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/711.svg",
+  "dna": "1ddeaa7ee56a210af431359f34db46992024c19e",
+  "edition": 711,
+  "date": 1698620956307,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Plastic Straw"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

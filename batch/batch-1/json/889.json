@@ -1,0 +1,35 @@
+{
+  "name": "COCO #889",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/889.svg",
+  "dna": "683316d607d53538975c6e6fb1a29a958d1f4252",
+  "edition": 889,
+  "date": 1698620956627,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Ghettoblaster"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Snow Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

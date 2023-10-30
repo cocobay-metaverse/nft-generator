@@ -1,0 +1,31 @@
+{
+  "name": "COCO #438",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/438.svg",
+  "dna": "9af8a07dd7a2f59a10f8132f3d494aea7a3daaba",
+  "edition": 438,
+  "date": 1698620955783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Flower"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "COCO #2007",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/997.svg",
+  "dna": "b2de2d9ced3dc1dfe621482011664a675b53ccb1",
+  "edition": 2007,
+  "date": 1698621003499,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

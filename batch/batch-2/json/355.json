@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1365",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/355.svg",
+  "dna": "e5fc8d45ffe5e8d4bab5511acdfb9eddd294ba63",
+  "edition": 1365,
+  "date": 1698621002218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Casual Watch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Japanese Mask"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

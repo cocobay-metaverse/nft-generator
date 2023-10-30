@@ -1,0 +1,35 @@
+{
+  "name": "COCO #155",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/155.svg",
+  "dna": "21f0daff40d067442a0a99ad531bdefe27827a82",
+  "edition": 155,
+  "date": 1698620955212,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Rainbow Hat"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

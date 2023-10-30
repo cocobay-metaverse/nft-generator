@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1970",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/960.svg",
+  "dna": "186a7321053faad4ee60dc227101ea1b1f02c0cf",
+  "edition": 1970,
+  "date": 1698621003427,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Musical Notes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Witch's Hat"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

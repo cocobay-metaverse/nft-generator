@@ -1,0 +1,35 @@
+{
+  "name": "COCO #935",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/935.svg",
+  "dna": "4066bbb71304414de8d77a9c3afbb7c24ee9e0ab",
+  "edition": 935,
+  "date": 1698620956716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tattoos"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

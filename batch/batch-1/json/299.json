@@ -1,0 +1,31 @@
+{
+  "name": "COCO #299",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/299.svg",
+  "dna": "746e44069b06d66b392972db8d756a0d08b210c6",
+  "edition": 299,
+  "date": 1698620955521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Astronaut Helmet"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

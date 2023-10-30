@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1062",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/52.svg",
+  "dna": "f68a1e51df30ee0c1018fa4987d2293dfbbb94a8",
+  "edition": 1062,
+  "date": 1698621001446,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pendrive"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bulb"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

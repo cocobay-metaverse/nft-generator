@@ -1,0 +1,35 @@
+{
+  "name": "COCO #123",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/123.svg",
+  "dna": "54ac1dc46a2237d977b7e3227708fc25733e13a0",
+  "edition": 123,
+  "date": 1698620955158,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Old Stars Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Spider"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

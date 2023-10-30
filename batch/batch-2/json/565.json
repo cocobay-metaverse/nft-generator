@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1575",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/565.svg",
+  "dna": "ba88a377743c4a64aa421ce0185902a97ea2b8c5",
+  "edition": 1575,
+  "date": 1698621002604,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Ghettoblaster"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Circus Cocktail"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

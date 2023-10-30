@@ -1,0 +1,35 @@
+{
+  "name": "COCO #297",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/297.svg",
+  "dna": "f5acceb1e66e3986dfce9572fe9deadb1d2cd37e",
+  "edition": 297,
+  "date": 1698620955518,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Bans Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Yellow Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "COCO #340",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/340.svg",
+  "dna": "5a3c6f81127eff801dccec47dbb43e9e895182a8",
+  "edition": 340,
+  "date": 1698620955597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

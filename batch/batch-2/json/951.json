@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1961",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/951.svg",
+  "dna": "16d68391d120f5d8586ba6839d2b042e9c6d9b9c",
+  "edition": 1961,
+  "date": 1698621003414,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Old Stars Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

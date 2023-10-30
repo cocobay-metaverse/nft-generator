@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1943",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/933.svg",
+  "dna": "9f5d620cc0161e09e403a596ca3b5c16bdd6dd93",
+  "edition": 1943,
+  "date": 1698621003370,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

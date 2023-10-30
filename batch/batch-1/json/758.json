@@ -1,0 +1,31 @@
+{
+  "name": "COCO #758",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/758.svg",
+  "dna": "8d3b875310e5069362851dfa7f702f5d0f38e456",
+  "edition": 758,
+  "date": 1698620956407,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lovely Head"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

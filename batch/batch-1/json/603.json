@@ -1,0 +1,27 @@
+{
+  "name": "COCO #603",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/603.svg",
+  "dna": "a9314657bd5e1432b0076826386b86047941135b",
+  "edition": 603,
+  "date": 1698620956091,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

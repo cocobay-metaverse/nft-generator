@@ -1,0 +1,35 @@
+{
+  "name": "COCO #602",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/602.svg",
+  "dna": "6abdf374700c4fa696e070eb4b89a9fc96b3f429",
+  "edition": 602,
+  "date": 1698620956090,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Home Espadrilles"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Yellow Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skipping Rope"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

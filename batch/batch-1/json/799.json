@@ -1,0 +1,31 @@
+{
+  "name": "COCO #799",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/799.svg",
+  "dna": "fc19fb0f7f9ff2a35a61cf358d3022a53214a1c5",
+  "edition": 799,
+  "date": 1698620956470,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

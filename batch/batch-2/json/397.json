@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1407",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/397.svg",
+  "dna": "225e7d3255fa7ab19f1cc4e9e5e96f1fd4049b08",
+  "edition": 1407,
+  "date": 1698621002291,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Magician Dress"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Curly Mohawk"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "COCO #606",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/606.svg",
+  "dna": "1f7adf39dae74f093bee279f640426b79b4b97ce",
+  "edition": 606,
+  "date": 1698620956096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hand Fan"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Musical Notes"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

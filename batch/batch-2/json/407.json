@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1417",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/407.svg",
+  "dna": "b4722513df9674687036e2fd3aa1fad8b425e608",
+  "edition": 1417,
+  "date": 1698621002312,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Magician Dress"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "COCO #17",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/17.svg",
+  "dna": "ae807212ec8bd432200ce2e8aa2740824faa08c1",
+  "edition": 17,
+  "date": 1698620954888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skipping Rope"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "LOL"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

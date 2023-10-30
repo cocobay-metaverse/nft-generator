@@ -1,0 +1,35 @@
+{
+  "name": "COCO #275",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/275.svg",
+  "dna": "2251d735a95bf93e9279dc09fef653d5d6189dc3",
+  "edition": 275,
+  "date": 1698620955467,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hammer"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

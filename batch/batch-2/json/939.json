@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1949",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/939.svg",
+  "dna": "3c3e4f47887145fee25b4d3f86d3517b75d46731",
+  "edition": 1949,
+  "date": 1698621003385,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

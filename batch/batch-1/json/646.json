@@ -1,0 +1,31 @@
+{
+  "name": "COCO #646",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/646.svg",
+  "dna": "10547ede1d5bdd4622cab392fc5a825f2acef755",
+  "edition": 646,
+  "date": 1698620956161,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

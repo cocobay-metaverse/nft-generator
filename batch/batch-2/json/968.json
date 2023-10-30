@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1978",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/968.svg",
+  "dna": "6fdcbc259c1c7eec12f085650c8092786110b4f7",
+  "edition": 1978,
+  "date": 1698621003440,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hammer"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "ETH"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

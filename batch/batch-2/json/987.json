@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1997",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/987.svg",
+  "dna": "388f16e8fb5698ad24801e875a034e3909ecf185",
+  "edition": 1997,
+  "date": 1698621003485,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Home Espadrilles"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

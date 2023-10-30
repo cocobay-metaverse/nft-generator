@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1948",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/938.svg",
+  "dna": "5255ff943982d8566e9579293c45f0061db0dfbf",
+  "edition": 1948,
+  "date": 1698621003383,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

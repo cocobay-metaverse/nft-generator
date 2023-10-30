@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1934",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/924.svg",
+  "dna": "91b8c6ea94258f404dbc36f565c952464b6778b3",
+  "edition": 1934,
+  "date": 1698621003346,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

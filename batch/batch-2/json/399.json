@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1409",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/399.svg",
+  "dna": "58d36b14e8dda3457bacdc9334ddd3787e32cf32",
+  "edition": 1409,
+  "date": 1698621002294,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pendrive"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

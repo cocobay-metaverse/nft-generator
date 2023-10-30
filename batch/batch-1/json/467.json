@@ -1,0 +1,39 @@
+{
+  "name": "COCO #467",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/467.svg",
+  "dna": "f42da683b2426b410a28e82a7b65791cbabbb68a",
+  "edition": 467,
+  "date": 1698620955839,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Ghettoblaster"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

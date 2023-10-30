@@ -1,0 +1,35 @@
+{
+  "name": "COCO #699",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/699.svg",
+  "dna": "f39da56d0a4f555a090c666ee83e8ce26bd0cec2",
+  "edition": 699,
+  "date": 1698620956261,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "XD"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

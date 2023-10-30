@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1187",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/177.svg",
+  "dna": "3c38bee6c57c6cc9d35fc0c3302e4522e4ec3c6a",
+  "edition": 1187,
+  "date": 1698621001753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Coco Book"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Rainbow Parchment"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

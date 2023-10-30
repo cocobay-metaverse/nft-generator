@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1501",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/491.svg",
+  "dna": "0cbb4726bedf9ffbb15253f39a014c54bb0b59a9",
+  "edition": 1501,
+  "date": 1698621002464,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

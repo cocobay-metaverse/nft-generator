@@ -1,0 +1,31 @@
+{
+  "name": "COCO #240",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/240.svg",
+  "dna": "247be047e21e32308b4ad781c65735bf977d0d78",
+  "edition": 240,
+  "date": 1698620955416,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Casual Watch"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

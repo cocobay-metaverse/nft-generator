@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1367",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/357.svg",
+  "dna": "e28c5be744c7ca3754a9445dca42b9ad75d56495",
+  "edition": 1367,
+  "date": 1698621002221,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hand Fan"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peace Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "COCO #7",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/7.svg",
+  "dna": "5a10222e8cba5cdac020a5084dd2b10ecfc1b3ea",
+  "edition": 7,
+  "date": 1698620954860,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Rainbow Parchment"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

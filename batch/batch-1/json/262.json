@@ -1,0 +1,35 @@
+{
+  "name": "COCO #262",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/262.svg",
+  "dna": "8d744be96d82278c570f0868d22804214da8a809",
+  "edition": 262,
+  "date": 1698620955448,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lollipop"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

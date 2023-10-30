@@ -1,0 +1,31 @@
+{
+  "name": "COCO #583",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/583.svg",
+  "dna": "f5cc3dac0c0a38e77c27b30fcd481ddb31fdfb90",
+  "edition": 583,
+  "date": 1698620956057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

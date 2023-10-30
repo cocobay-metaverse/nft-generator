@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1054",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/44.svg",
+  "dna": "f2e1fdb9f2b6f1276b41e5363883191aaf933097",
+  "edition": 1054,
+  "date": 1698621001433,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

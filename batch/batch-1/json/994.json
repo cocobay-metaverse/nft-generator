@@ -1,0 +1,27 @@
+{
+  "name": "COCO #994",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/994.svg",
+  "dna": "047b95fcfc3e047046d44c3f9d85b3a55748c5ca",
+  "edition": 994,
+  "date": 1698620956847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pendrive"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

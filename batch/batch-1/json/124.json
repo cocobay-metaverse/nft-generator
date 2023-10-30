@@ -1,0 +1,35 @@
+{
+  "name": "COCO #124",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/124.svg",
+  "dna": "a21d0fb32926a4c978756d9cba3b7aaf650bd189",
+  "edition": 124,
+  "date": 1698620955160,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Bracelet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Snow Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

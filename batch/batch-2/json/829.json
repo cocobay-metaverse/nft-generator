@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1839",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/829.svg",
+  "dna": "6315bc93f767bb3d91e22a730988924a7211e4c5",
+  "edition": 1839,
+  "date": 1698621003163,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Old Stars Shoes"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

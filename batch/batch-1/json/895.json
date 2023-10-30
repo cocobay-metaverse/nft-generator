@@ -1,0 +1,27 @@
+{
+  "name": "COCO #895",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/895.svg",
+  "dna": "abaa007882dfef4c50b4fd04bd7584b47b57d9ac",
+  "edition": 895,
+  "date": 1698620956641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Snow Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

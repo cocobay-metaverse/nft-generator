@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1436",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/426.svg",
+  "dna": "1c7f34b0604ca0dca6aad6776e78a215512a5b2f",
+  "edition": 1436,
+  "date": 1698621002344,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Caveman Club"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Japanese Mask"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

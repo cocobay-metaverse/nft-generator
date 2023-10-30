@@ -1,0 +1,39 @@
+{
+  "name": "COCO #698",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/698.svg",
+  "dna": "6b4ce38ec3f73073311f493704a845da3a2f0aad",
+  "edition": 698,
+  "date": 1698620956259,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Rainbow Parchment"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peace Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "80's Hair"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

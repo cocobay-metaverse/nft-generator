@@ -1,0 +1,39 @@
+{
+  "name": "COCO #214",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/214.svg",
+  "dna": "2a0ccde5015e5d9becda3518caab79cf444ec4ed",
+  "edition": 214,
+  "date": 1698620955359,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

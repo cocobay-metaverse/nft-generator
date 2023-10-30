@@ -1,0 +1,35 @@
+{
+  "name": "COCO #808",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/808.svg",
+  "dna": "18ee39ecb1d9d370cea492e07151a0e81446e44d",
+  "edition": 808,
+  "date": 1698620956484,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Caveman Club"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

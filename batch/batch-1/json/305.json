@@ -1,0 +1,39 @@
+{
+  "name": "COCO #305",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/305.svg",
+  "dna": "4f4acc65a35baa231820edefc455181ee25b02bd",
+  "edition": 305,
+  "date": 1698620955530,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Bracelet"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hand Fan"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

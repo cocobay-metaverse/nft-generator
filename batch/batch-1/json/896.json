@@ -1,0 +1,35 @@
+{
+  "name": "COCO #896",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/896.svg",
+  "dna": "91e9579691f69368b697349ebdc02b5db1821de1",
+  "edition": 896,
+  "date": 1698620956643,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Plastic Straw"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

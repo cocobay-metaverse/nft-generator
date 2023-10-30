@@ -1,0 +1,35 @@
+{
+  "name": "COCO #175",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/175.svg",
+  "dna": "c826a843669f890290ae077b17dfc852f3e3431c",
+  "edition": 175,
+  "date": 1698620955266,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Casual Watch"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Magic Wand"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

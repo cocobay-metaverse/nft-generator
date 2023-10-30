@@ -1,0 +1,31 @@
+{
+  "name": "COCO #660",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/660.svg",
+  "dna": "a2ae02b98bfe57292635e751fc7b898b8d692115",
+  "edition": 660,
+  "date": 1698620956189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Construction Helmet"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

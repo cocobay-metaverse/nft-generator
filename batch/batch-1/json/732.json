@@ -1,0 +1,35 @@
+{
+  "name": "COCO #732",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/732.svg",
+  "dna": "77c8af6468eba604b18e8111557ca56c453146ff",
+  "edition": 732,
+  "date": 1698620956351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hand Fan"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

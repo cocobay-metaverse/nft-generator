@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1875",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/865.svg",
+  "dna": "ef32a12fc9d3ef2b1404c051c7d9f1e39e94607d",
+  "edition": 1875,
+  "date": 1698621003227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "COCO #825",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/825.svg",
+  "dna": "1bed478ebc05d0e93511bf9a3d1baaf8c03f8693",
+  "edition": 825,
+  "date": 1698620956513,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Old Stars Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "XD"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

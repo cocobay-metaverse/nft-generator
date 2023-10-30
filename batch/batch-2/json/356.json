@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1366",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/356.svg",
+  "dna": "ea8106774e0939bad28b8e8e4d005d971d9dbb47",
+  "edition": 1366,
+  "date": 1698621002219,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Bans Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Coco Book"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hammer"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

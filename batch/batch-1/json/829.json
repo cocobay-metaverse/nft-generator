@@ -1,0 +1,31 @@
+{
+  "name": "COCO #829",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/829.svg",
+  "dna": "469b1682afa4282e9746bf45bd93d7980d008350",
+  "edition": 829,
+  "date": 1698620956520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lollipop"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

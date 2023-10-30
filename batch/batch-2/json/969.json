@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1979",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/969.svg",
+  "dna": "44d7b0312fe3fc3a29f17086062bc4d47b752fbb",
+  "edition": 1979,
+  "date": 1698621003441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "OMG"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

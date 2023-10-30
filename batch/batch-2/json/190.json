@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1200",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/190.svg",
+  "dna": "0ceeb0785542170f7dd3a9dd521bb0b059450c5e",
+  "edition": 1200,
+  "date": 1698621001793,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Home Espadrilles"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Ghettoblaster"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lovely Head"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

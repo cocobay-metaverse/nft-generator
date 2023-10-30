@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1618",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/608.svg",
+  "dna": "75e9244f18ac39f7caca18b0ac6779daeb003302",
+  "edition": 1618,
+  "date": 1698621002695,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

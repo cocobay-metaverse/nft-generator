@@ -1,0 +1,27 @@
+{
+  "name": "COCO #216",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/216.svg",
+  "dna": "39e0c193df25106a81fe571cea959f2b80c3f20e",
+  "edition": 216,
+  "date": 1698620955362,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

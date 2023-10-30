@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1471",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/461.svg",
+  "dna": "792347e8dbc8528baee5182deca270cdfc3e1be7",
+  "edition": 1471,
+  "date": 1698621002415,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Rainbow Parchment"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

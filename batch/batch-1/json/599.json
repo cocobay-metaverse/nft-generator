@@ -1,0 +1,31 @@
+{
+  "name": "COCO #599",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/599.svg",
+  "dna": "4d907bbf0440aecc213aba905cafb48a0444e865",
+  "edition": 599,
+  "date": 1698620956085,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Yellow Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lollipop"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1294",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/284.svg",
+  "dna": "36c97d73e39e04ae0ec9052a8af714256bffe00c",
+  "edition": 1294,
+  "date": 1698621002018,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lovely Head"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

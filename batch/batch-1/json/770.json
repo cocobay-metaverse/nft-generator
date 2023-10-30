@@ -1,0 +1,31 @@
+{
+  "name": "COCO #770",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/770.svg",
+  "dna": "cb515ad53a8521bc55a68666499802a2e1131d5f",
+  "edition": 770,
+  "date": 1698620956428,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hand Fan"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

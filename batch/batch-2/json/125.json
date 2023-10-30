@@ -1,0 +1,23 @@
+{
+  "name": "COCO #1135",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/125.svg",
+  "dna": "19d0bab34a142a1fe71f9e93b5544a8a5545becb",
+  "edition": 1135,
+  "date": 1698621001630,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

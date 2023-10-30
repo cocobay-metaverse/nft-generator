@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1027",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/17.svg",
+  "dna": "b2d5e75de06245d52b7c603a7f2dcb58995fb28e",
+  "edition": 1027,
+  "date": 1698621001371,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

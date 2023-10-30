@@ -1,0 +1,35 @@
+{
+  "name": "COCO #909",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/909.svg",
+  "dna": "e83e816a0584b3983b82e1cb00f847be441ce4fd",
+  "edition": 909,
+  "date": 1698620956668,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Samurai Brain"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

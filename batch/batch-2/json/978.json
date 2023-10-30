@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1988",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/978.svg",
+  "dna": "0aebc09a5e3514ec305761b286b018abffef0f16",
+  "edition": 1988,
+  "date": 1698621003461,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "OK"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

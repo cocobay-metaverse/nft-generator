@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1798",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/788.svg",
+  "dna": "005bb950e83de4db19d641c88576c7a6a7c484a6",
+  "edition": 1798,
+  "date": 1698621003058,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "COCO #490",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/490.svg",
+  "dna": "70b1d5850d67520be0f54634c202b2983826eae5",
+  "edition": 490,
+  "date": 1698620955884,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

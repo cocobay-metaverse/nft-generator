@@ -1,0 +1,31 @@
+{
+  "name": "COCO #455",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/455.svg",
+  "dna": "a3fdafa4603376201cb0bedecdbb495ed46a8664",
+  "edition": 455,
+  "date": 1698620955820,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

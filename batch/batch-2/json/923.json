@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1933",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/923.svg",
+  "dna": "1c17aebbb794a96c57e59c26bc8443ab5b392e85",
+  "edition": 1933,
+  "date": 1698621003345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Samurai Brain"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

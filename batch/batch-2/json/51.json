@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1061",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/51.svg",
+  "dna": "81a690a9030b1f082f0a47b5c14ffa6d66391230",
+  "edition": 1061,
+  "date": 1698621001444,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

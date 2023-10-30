@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1022",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/12.svg",
+  "dna": "f70e7e7041ffde3792613bfd599c82d2f2fabfe2",
+  "edition": 1022,
+  "date": 1698621001352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -6,7 +6,9 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "COCO";
 const description = "The first COCOBAY NFT collection 🥥";
-const baseUri = "ipfs://???????";
+//const baseUri = "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg"; //Batch 1
+//const baseUri = "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu"; //Batch 2
+const baseUri = "ipfs://????";
 
 const solanaMetadata = {
   symbol: "YC",

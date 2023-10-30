@@ -1,0 +1,35 @@
+{
+  "name": "COCO #152",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/152.svg",
+  "dna": "4bfd2a02e55c6188ba426d78ae8b7fa16ed6a794",
+  "edition": 152,
+  "date": 1698620955207,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Musical Notes"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "BFF"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1832",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/822.svg",
+  "dna": "4a903f9786ea7d8ecc6a69fe278d972afb2147f1",
+  "edition": 1832,
+  "date": 1698621003146,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Yellow Costume"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hipster Cap"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

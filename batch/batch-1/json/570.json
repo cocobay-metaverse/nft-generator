@@ -1,0 +1,27 @@
+{
+  "name": "COCO #570",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/570.svg",
+  "dna": "de87b5f50ca7fd1d04e8cc403ce38ae544207d9e",
+  "edition": 570,
+  "date": 1698620956037,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1206",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/196.svg",
+  "dna": "54fdc761411632c4626b34c0d84c8a2be413dd89",
+  "edition": 1206,
+  "date": 1698621001809,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

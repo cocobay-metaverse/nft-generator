@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1295",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/285.svg",
+  "dna": "671cf39a9b34514ed3bba2cfb8bec7e9d9ceddb2",
+  "edition": 1295,
+  "date": 1698621002019,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Casual Watch"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

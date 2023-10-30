@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1857",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/847.svg",
+  "dna": "c2aac759a34f26dd7d4007cf05768ce297e321f5",
+  "edition": 1857,
+  "date": 1698621003195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hand Fan"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

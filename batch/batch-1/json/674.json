@@ -1,0 +1,35 @@
+{
+  "name": "COCO #674",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/674.svg",
+  "dna": "8a35d545c03e7e91b4fd5627d4ce44d5adf12392",
+  "edition": 674,
+  "date": 1698620956208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Bracelet"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hipster Cap"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

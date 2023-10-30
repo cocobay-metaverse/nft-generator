@@ -1,0 +1,31 @@
+{
+  "name": "COCO #626",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/626.svg",
+  "dna": "6c9160601b0443807bceacc4867daaccca94235e",
+  "edition": 626,
+  "date": 1698620956132,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

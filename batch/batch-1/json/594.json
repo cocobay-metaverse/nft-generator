@@ -1,0 +1,31 @@
+{
+  "name": "COCO #594",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/594.svg",
+  "dna": "6630d5426da1343d72ab8da0dd71b778cdd38a12",
+  "edition": 594,
+  "date": 1698620956078,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Fancy Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

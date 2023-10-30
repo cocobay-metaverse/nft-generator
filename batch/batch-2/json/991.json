@@ -1,0 +1,35 @@
+{
+  "name": "COCO #2001",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/991.svg",
+  "dna": "a31c71fa23500ca9c7e3df3a683d186d145c0862",
+  "edition": 2001,
+  "date": 1698621003490,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Bracelet"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "COCO #8",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/8.svg",
+  "dna": "dbb08d789816bd5b9fd4cd784fff241a55cb45c4",
+  "edition": 8,
+  "date": 1698620954862,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "BTC"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

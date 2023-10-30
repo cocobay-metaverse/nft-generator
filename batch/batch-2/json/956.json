@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1966",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/956.svg",
+  "dna": "7a9df81d6c082e96234ca435121e58585c36bb26",
+  "edition": 1966,
+  "date": 1698621003420,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

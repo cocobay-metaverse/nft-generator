@@ -1,0 +1,31 @@
+{
+  "name": "COCO #482",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/482.svg",
+  "dna": "60a443fee9fa82612a8745db94f00dc22637c6de",
+  "edition": 482,
+  "date": 1698620955867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Magician Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pencil"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

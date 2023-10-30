@@ -1,0 +1,35 @@
+{
+  "name": "COCO #1427",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/417.svg",
+  "dna": "ee2e402c70c953018564d4951014b50aaf1f2786",
+  "edition": 1427,
+  "date": 1698621002328,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Old Key"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "LOL"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

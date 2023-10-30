@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1012",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/2.svg",
+  "dna": "f50d2c1a2bd0043bff207957b2ead64873880030",
+  "edition": 1012,
+  "date": 1698621001312,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Curly Mohawk"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

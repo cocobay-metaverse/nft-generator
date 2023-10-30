@@ -1,0 +1,35 @@
+{
+  "name": "COCO #90",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/90.svg",
+  "dna": "eaaaff8a006a831b721b8b7f9bfcca5577ce5a3e",
+  "edition": 90,
+  "date": 1698620955083,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Bracelet"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Rainbow Parchment"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "BFF"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

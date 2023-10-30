@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1647",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/637.svg",
+  "dna": "e94348152d10a188f7eef3a25fe1c21c46c15f55",
+  "edition": 1647,
+  "date": 1698621002753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Yellow Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Cables"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Musical Notes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Curly Mohawk"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

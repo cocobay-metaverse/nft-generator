@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1339",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/329.svg",
+  "dna": "0d72a663cbde537dcf47bc329753ba56e91b7c43",
+  "edition": 1339,
+  "date": 1698621002149,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Home Espadrilles"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "XD"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

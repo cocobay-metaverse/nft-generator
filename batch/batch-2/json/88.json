@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1098",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/88.svg",
+  "dna": "564c336df8253161ff9a8fd5f51a3ef5d605c4ce",
+  "edition": 1098,
+  "date": 1698621001524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

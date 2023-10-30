@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1394",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/384.svg",
+  "dna": "b3e16b4b335e1041a367030c463a2f7836143a14",
+  "edition": 1394,
+  "date": 1698621002264,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pendrive"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peace Goggles"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "BFF"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

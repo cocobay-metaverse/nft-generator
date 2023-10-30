@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1727",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/717.svg",
+  "dna": "acf8d6282dbfaed0a6a5e863fb2be4d36b6849a5",
+  "edition": 1727,
+  "date": 1698621002925,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

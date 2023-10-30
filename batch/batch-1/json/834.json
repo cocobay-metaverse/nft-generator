@@ -1,0 +1,31 @@
+{
+  "name": "COCO #834",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/834.svg",
+  "dna": "629d3ba6d187dde62307ab638cd051eb62f4e1ae",
+  "edition": 834,
+  "date": 1698620956529,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Home Espadrilles"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

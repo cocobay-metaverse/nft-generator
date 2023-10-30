@@ -1,0 +1,39 @@
+{
+  "name": "COCO #369",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/369.svg",
+  "dna": "e506049d2fb82ac2abc29d3d90442a5c67933542",
+  "edition": 369,
+  "date": 1698620955651,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Bans Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Pendrive"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hand Fan"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hipster Cap"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "COCO #504",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/504.svg",
+  "dna": "101c9af52d2355448bc2bdd9137dd685ea4dd08a",
+  "edition": 504,
+  "date": 1698620955918,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Bracelet"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1905",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/895.svg",
+  "dna": "448f3714de4ad2024e7bac58d9be4cd5f45277cf",
+  "edition": 1905,
+  "date": 1698621003277,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Rainbow Parchment"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

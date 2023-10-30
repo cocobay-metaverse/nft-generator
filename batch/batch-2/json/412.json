@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1422",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/412.svg",
+  "dna": "5fd5ef198c059ae5de7200d6b60292b233ed30e1",
+  "edition": 1422,
+  "date": 1698621002319,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Old Stars Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hammer"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Circus Cocktail"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

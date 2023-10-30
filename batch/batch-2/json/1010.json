@@ -1,0 +1,35 @@
+{
+  "name": "COCO #2020",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/1010.svg",
+  "dna": "43c7cd4575cee732f0607ff2b726bec1d5a8092c",
+  "edition": 2020,
+  "date": 1698621003522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skipping Rope"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "BFF"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

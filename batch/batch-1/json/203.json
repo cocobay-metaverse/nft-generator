@@ -1,0 +1,35 @@
+{
+  "name": "COCO #203",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/203.svg",
+  "dna": "85ca8992ab36f52f7ba9e983fd4ebad3e37192c1",
+  "edition": 203,
+  "date": 1698620955339,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Caveman Club"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peace Goggles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

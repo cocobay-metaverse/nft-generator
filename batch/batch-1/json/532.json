@@ -1,0 +1,43 @@
+{
+  "name": "COCO #532",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/532.svg",
+  "dna": "ae06e1427e17c1e55443d18eead75693cb334349",
+  "edition": 532,
+  "date": 1698620955967,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Ghettoblaster"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cocktail Umbrella"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

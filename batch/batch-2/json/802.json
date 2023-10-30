@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1812",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/802.svg",
+  "dna": "b4c97bd5d27d1ba5655af53a490eb0f49cf058e4",
+  "edition": 1812,
+  "date": 1698621003107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

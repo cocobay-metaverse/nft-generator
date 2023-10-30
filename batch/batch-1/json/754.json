@@ -1,0 +1,35 @@
+{
+  "name": "COCO #754",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/754.svg",
+  "dna": "de6d09367de29d9a6e4a7f610f12f94aca55a18f",
+  "edition": 754,
+  "date": 1698620956396,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Basketballer"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "XD"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

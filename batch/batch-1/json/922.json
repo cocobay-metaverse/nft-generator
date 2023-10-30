@@ -1,0 +1,23 @@
+{
+  "name": "COCO #922",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/922.svg",
+  "dna": "52a85755b5496525eebd1cf6ef595eec174d681e",
+  "edition": 922,
+  "date": 1698620956689,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

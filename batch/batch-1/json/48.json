@@ -1,0 +1,31 @@
+{
+  "name": "COCO #48",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/48.svg",
+  "dna": "333b4740383519244a46da064658ec3fa60060ec",
+  "edition": 48,
+  "date": 1698620954984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skipping Rope"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Musical Notes"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

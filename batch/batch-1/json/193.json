@@ -1,0 +1,31 @@
+{
+  "name": "COCO #193",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/193.svg",
+  "dna": "5ccd025b6e3f08dd7c96103c5dcc4c490d25d4bc",
+  "edition": 193,
+  "date": 1698620955316,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Coco Book"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

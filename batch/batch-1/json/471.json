@@ -1,0 +1,39 @@
+{
+  "name": "COCO #471",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/471.svg",
+  "dna": "73b4e829f19e5755e13c04f78fc75c3afb7432a9",
+  "edition": 471,
+  "date": 1698620955845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Ghettoblaster"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "GM"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

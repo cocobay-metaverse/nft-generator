@@ -1,0 +1,35 @@
+{
+  "name": "COCO #945",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/945.svg",
+  "dna": "351b6bd19e5cb4f6939e1f85aec93f5dc191d28e",
+  "edition": 945,
+  "date": 1698620956739,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bulb"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

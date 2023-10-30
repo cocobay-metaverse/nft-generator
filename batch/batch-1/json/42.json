@@ -1,0 +1,35 @@
+{
+  "name": "COCO #42",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/42.svg",
+  "dna": "d0af53800651a13453ee3d9184f27cc24703b5bb",
+  "edition": 42,
+  "date": 1698620954970,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Bracelet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Circus Cocktail"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

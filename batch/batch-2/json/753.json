@@ -1,0 +1,43 @@
+{
+  "name": "COCO #1763",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/753.svg",
+  "dna": "5869975e702997119e9c4cc7d0bc171787d874c1",
+  "edition": 1763,
+  "date": 1698621003003,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Caveman Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Goggles"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "ETH"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "COCO #426",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/426.svg",
+  "dna": "f99b050e98c61ef8e6500ee6c418f0f94600339c",
+  "edition": 426,
+  "date": 1698620955753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Bans Shoes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Casual Watch"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Curly Mohawk"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "COCO #938",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/938.svg",
+  "dna": "9d06704a2b672da1d83d979a836e7fc3e963aa3d",
+  "edition": 938,
+  "date": 1698620956721,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

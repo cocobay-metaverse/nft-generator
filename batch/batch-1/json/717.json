@@ -1,0 +1,39 @@
+{
+  "name": "COCO #717",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/717.svg",
+  "dna": "85f496e16a260a4eb9eeac18f167b16780dcd96c",
+  "edition": 717,
+  "date": 1698620956318,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Home Espadrilles"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Caveman Club"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "ETH"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

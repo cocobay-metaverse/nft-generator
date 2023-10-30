@@ -1,0 +1,39 @@
+{
+  "name": "COCO #725",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/725.svg",
+  "dna": "1401ccfd52d6b7d87f4b038215db6a803250f44b",
+  "edition": 725,
+  "date": 1698620956331,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Cosy Sandals"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Coco Book"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "LFG"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

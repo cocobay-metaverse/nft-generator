@@ -1,0 +1,31 @@
+{
+  "name": "COCO #635",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/635.svg",
+  "dna": "a589daafe6977df453a1476bf69fdcd7a2cc2c65",
+  "edition": 635,
+  "date": 1698620956147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peace Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Circus Cocktail"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

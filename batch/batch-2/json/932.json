@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1942",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/932.svg",
+  "dna": "ed8a0313929d1e3e205418a4dbcb7c56fa4d939d",
+  "edition": 1942,
+  "date": 1698621003369,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Retro Roller Skate"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Coco Book"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "LFG"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

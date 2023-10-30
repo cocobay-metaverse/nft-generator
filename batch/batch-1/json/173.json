@@ -1,0 +1,31 @@
+{
+  "name": "COCO #173",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/173.svg",
+  "dna": "ec4f6317e0b72ec3adcae494de461d3c8a9187c9",
+  "edition": 173,
+  "date": 1698620955264,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "DCL"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

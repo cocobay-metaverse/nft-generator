@@ -1,0 +1,27 @@
+{
+  "name": "COCO #141",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/141.svg",
+  "dna": "0150b7847d5360644b8a5521c31e1c555bc49fc7",
+  "edition": 141,
+  "date": 1698620955184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Home Espadrilles"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

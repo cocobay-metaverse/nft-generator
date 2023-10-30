@@ -1,0 +1,23 @@
+{
+  "name": "COCO #1920",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/910.svg",
+  "dna": "bd957a5c42e2fb5b04c07f93e7ec1a00faf520c9",
+  "edition": 1920,
+  "date": 1698621003311,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

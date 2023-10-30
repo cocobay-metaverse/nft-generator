@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1241",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/231.svg",
+  "dna": "cf4df47a1822a994e9165b2e3059efc103988c3f",
+  "edition": 1241,
+  "date": 1698621001885,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

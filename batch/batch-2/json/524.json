@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1534",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/524.svg",
+  "dna": "6d1c0ffca87113ed30e69b1bd9616dee1df98faa",
+  "edition": 1534,
+  "date": 1698621002530,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "ETH"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

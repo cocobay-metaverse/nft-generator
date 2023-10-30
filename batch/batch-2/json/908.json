@@ -1,0 +1,39 @@
+{
+  "name": "COCO #1918",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/908.svg",
+  "dna": "ce352394cba03aceaf0ae0170f037240e0bb5150",
+  "edition": 1918,
+  "date": 1698621003309,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hipster Shoes"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Hand Fan"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "GM"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

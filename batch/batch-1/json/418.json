@@ -1,0 +1,23 @@
+{
+  "name": "COCO #418",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/418.svg",
+  "dna": "c15947a91434b6afdfe59b5dc2fd9441e0d4f4c0",
+  "edition": 418,
+  "date": 1698620955738,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Winking"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

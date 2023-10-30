@@ -1,0 +1,35 @@
+{
+  "name": "COCO #665",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/665.svg",
+  "dna": "61a982fbc41147a1ea96c2c37be888d64b9cd4d7",
+  "edition": 665,
+  "date": 1698620956195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Peace Necklace"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "LOL"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

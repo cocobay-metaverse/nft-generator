@@ -1,0 +1,39 @@
+{
+  "name": "COCO #918",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/918.svg",
+  "dna": "73254f288a4a846e0eee3e0d140b0ef25acd37ae",
+  "edition": 918,
+  "date": 1698620956683,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Snow Goggles"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "DCL"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

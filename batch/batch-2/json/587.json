@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1597",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/587.svg",
+  "dna": "ec4484d6614fe1b84f40dc0cadf9c17322a6acf5",
+  "edition": 1597,
+  "date": 1698621002653,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chuckle"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Bracelet"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

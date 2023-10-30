@@ -1,0 +1,43 @@
+{
+  "name": "COCO #14",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/14.svg",
+  "dna": "a2a208b4b0a40fdda6a84e78715ba4d0e17a449b",
+  "edition": 14,
+  "date": 1698620954883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Farmer Costume"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Electric Guitar"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Witch Broomstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Japanese Mask"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "OG"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

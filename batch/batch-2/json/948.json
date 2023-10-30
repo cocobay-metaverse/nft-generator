@@ -1,0 +1,31 @@
+{
+  "name": "COCO #1958",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/948.svg",
+  "dna": "1bae46e0016541e0c87f3af6517324c037aaa3c2",
+  "edition": 1958,
+  "date": 1698621003410,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "OMG"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

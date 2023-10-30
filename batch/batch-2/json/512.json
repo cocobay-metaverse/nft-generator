@@ -1,0 +1,27 @@
+{
+  "name": "COCO #1522",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/512.svg",
+  "dna": "a4b3930fef9910ee7c78ef3cf7bf6671917adf83",
+  "edition": 1522,
+  "date": 1698621002500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Magician Hat"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

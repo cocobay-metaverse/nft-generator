@@ -1,0 +1,39 @@
+{
+  "name": "COCO #554",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/554.svg",
+  "dna": "3577db6974deef7e5f00e0783a6a43b70cc3c268",
+  "edition": 554,
+  "date": 1698620956010,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Casted Leg"
+    },
+    {
+      "trait_type": "Wear",
+      "value": "Green Dress"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Beer Jar"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "LOL"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

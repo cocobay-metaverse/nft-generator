@@ -1,0 +1,23 @@
+{
+  "name": "COCO #1994",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/984.svg",
+  "dna": "37a6f45df8831e93b3fba8785aedf7aacda7303b",
+  "edition": 1994,
+  "date": 1698621003469,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joyful"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

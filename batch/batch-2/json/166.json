@@ -1,0 +1,23 @@
+{
+  "name": "COCO #1176",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/166.svg",
+  "dna": "537dd8b4177c383f0cf44b4be7ccb8b21bdd90e5",
+  "edition": 1176,
+  "date": 1698621001727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

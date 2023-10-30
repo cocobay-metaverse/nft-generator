@@ -1,0 +1,23 @@
+{
+  "name": "COCO #1094",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/84.svg",
+  "dna": "25d64f39468783aa6d6c4d93fa6ae36a70226a7b",
+  "edition": 1094,
+  "date": 1698621001517,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

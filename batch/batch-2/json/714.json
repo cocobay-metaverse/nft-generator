@@ -1,0 +1,23 @@
+{
+  "name": "COCO #1724",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmT76NxPjKRKxvi2LHiZWuBkHYc8p2oNV4s9zcV65DVvQu/714.svg",
+  "dna": "04736b80cb30ca22b5dfa4cef69f418249aabb02",
+  "edition": 1724,
+  "date": 1698621002922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moustache"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}

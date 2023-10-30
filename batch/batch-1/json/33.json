@@ -1,0 +1,23 @@
+{
+  "name": "COCO #33",
+  "description": "The first COCOBAY NFT collection 🥥",
+  "image": "ipfs://QmaAqH2jcv6Ngg6AGQ93wH8vL3H8bmUM34ztmwdUxabSCg/33.svg",
+  "dna": "ebe4b51c4e530df03deafc198d1f4fc064d4aa55",
+  "edition": 33,
+  "date": 1698620954950,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    }
+  ],
+  "compiler": "COCOBAY Art Engine, based on HashLips"
+}
